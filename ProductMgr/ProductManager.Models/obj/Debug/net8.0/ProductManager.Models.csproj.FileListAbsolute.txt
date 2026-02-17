@@ -1,0 +1,11 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\bin\Debug\net8.0\ProductManager.Models.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\bin\Debug\net8.0\ProductManager.Models.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\bin\Debug\net8.0\ProductManager.Models.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\obj\Debug\net8.0\ProductManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\obj\Debug\net8.0\ProductManager.Models.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\obj\Debug\net8.0\ProductManager.Models.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\obj\Debug\net8.0\ProductManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\obj\Debug\net8.0\ProductManager.Models.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\obj\Debug\net8.0\refint\ProductManager.Models.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\obj\Debug\net8.0\ProductManager.Models.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Models\obj\Debug\net8.0\ref\ProductManager.Models.dll

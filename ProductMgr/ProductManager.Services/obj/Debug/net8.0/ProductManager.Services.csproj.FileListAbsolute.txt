@@ -1,0 +1,15 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\bin\Debug\net8.0\ProductManager.Services.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\bin\Debug\net8.0\ProductManager.Services.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\bin\Debug\net8.0\ProductManager.Services.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\bin\Debug\net8.0\ProductManager.Models.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\bin\Debug\net8.0\ProductManager.Models.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\obj\Debug\net8.0\ProductManager.Services.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\obj\Debug\net8.0\ProductManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\obj\Debug\net8.0\ProductManager.Services.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\obj\Debug\net8.0\ProductManager.Services.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\obj\Debug\net8.0\ProductManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\obj\Debug\net8.0\ProductM.D7F58354.Up2Date
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\obj\Debug\net8.0\ProductManager.Services.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\obj\Debug\net8.0\refint\ProductManager.Services.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\obj\Debug\net8.0\ProductManager.Services.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.Services\obj\Debug\net8.0\ref\ProductManager.Services.dll

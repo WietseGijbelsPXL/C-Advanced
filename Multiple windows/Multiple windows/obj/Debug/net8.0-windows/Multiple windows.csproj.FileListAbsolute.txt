@@ -1,0 +1,25 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\bin\Debug\net8.0-windows\Multiple windows.exe
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\bin\Debug\net8.0-windows\Multiple windows.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\bin\Debug\net8.0-windows\Multiple windows.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\bin\Debug\net8.0-windows\Multiple windows.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\bin\Debug\net8.0-windows\Multiple windows.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\ListWindow.g.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows_MarkupCompile.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows_MarkupCompile.lref
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\ListWindow.baml
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows.g.resources
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\refint\Multiple windows.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\Multiple windows.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Multiple windows\Multiple windows\obj\Debug\net8.0-windows\ref\Multiple windows.dll

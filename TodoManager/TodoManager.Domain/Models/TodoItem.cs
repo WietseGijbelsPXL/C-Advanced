@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TodoManager.Domain.Models
+{
+    public class TodoItem
+    {
+        public int Id { get; set; }
+        public string Title { get; }
+        public string? Description { get; }
+        public DateTime DueDate { get; }
+        public bool IsCompleted { get; private set; } = false;
+        public DateTime? CompletedAt { get; private set; } = null;
+
+        public TodoItem(string title, string? description, DateTime dueDate)
+        {
+            if (string.IsNullOrWhiteSpace(title))
+            {
+                throw new ArgumentNullException("Titel mag niet leeg zijn.");
+            }
+            else
+            {
+                Title = title;
+            }
+            Description = description;
+            DueDate = dueDate;
+        }
+
+        public void MarkAsCompleted()
+        {
+            if(IsCompleted == false){
+                IsCompleted = true;
+                CompletedAt = DateTime.Now;
+            }
+        }
+
+        public override string ToString()
+        {
+            string status = IsCompleted ? "[Done]" : "[Open]";
+            return $"{status} {Title} (due {DueDate:dd/MM/yyyy})";
+        }
+    }
+}

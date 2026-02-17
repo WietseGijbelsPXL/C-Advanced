@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\mediaplayer\\mediaplayer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\mediaplayer\\mediaplayer\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\mediaplayer\\mediaplayer\\videowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\videowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\mediaplayer\\mediaplayer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\mediaplayer\\mediaplayer\\videowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\videowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\mediaplayer\\mediaplayer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F130379-5F5D-4A96-9620-BB3069024486}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\VideoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MediaPlayer\\VideoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\VideoWindow.xaml.cs",
+              "RelativeToolTip": "MediaPlayer\\VideoWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:46:00.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MediaPlayer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\MainWindow.xaml",
+              "RelativeToolTip": "MediaPlayer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-16T14:36:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MediaPlayer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MediaPlayer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:35:55.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\Themes\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "MediaPlayer\\Themes\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\Themes\\DarkTheme.xaml",
+              "RelativeToolTip": "MediaPlayer\\Themes\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-16T16:14:43.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\VideoWindow.xaml",
+              "RelativeDocumentMoniker": "MediaPlayer\\VideoWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\VideoWindow.xaml",
+              "RelativeToolTip": "MediaPlayer\\VideoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-16T14:42:42.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\App.xaml",
+              "RelativeDocumentMoniker": "MediaPlayer\\App.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\App.xaml",
+              "RelativeToolTip": "MediaPlayer\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-16T16:15:18.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

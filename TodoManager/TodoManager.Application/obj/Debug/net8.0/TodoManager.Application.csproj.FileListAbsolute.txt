@@ -1,0 +1,17 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\bin\Debug\net8.0\TodoManager.Application.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\bin\Debug\net8.0\TodoManager.Application.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\bin\Debug\net8.0\TodoManager.Application.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\bin\Debug\net8.0\TodoManager.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\bin\Debug\net8.0\TodoManager.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\bin\Debug\net8.0\TodoManager.Infrastructure.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\bin\Debug\net8.0\TodoManager.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\TodoManager.Application.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\TodoManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\TodoManager.Application.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\TodoManager.Application.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\TodoManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\TodoMana.B1BBDFE2.Up2Date
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\TodoManager.Application.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\refint\TodoManager.Application.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\TodoManager.Application.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\ref\TodoManager.Application.dll

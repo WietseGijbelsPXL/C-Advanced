@@ -1,0 +1,21 @@
+﻿<Window x:Class="StudentManager.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentManager.UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10" VerticalAlignment="Top">
+        <TextBlock Text="Voornaam:" Margin="0,0,0,5"/>
+        <TextBox x:Name="firstNameBox" Margin="0,0,0,10"/>
+
+        <TextBlock Text="Achternaam:" Margin="0,0,0,5"/>
+        <TextBox x:Name="lastNameBox" Margin="0,0,0,10"/>
+
+        <Button Content="Student toevoegen" Click="AddButton_Click" Margin="0,0,0,15"/>
+
+        <TextBlock Text="Studentenlijst:" FontWeight="Bold" Margin="0,0,0,5"/>
+        <ListBox x:Name="studentListBox" Height="120"/>
+    </StackPanel>
+</Window>

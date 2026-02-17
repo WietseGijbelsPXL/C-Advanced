@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Class Library Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94B84043-A8CB-407F-AA6A-56834058874C}|Class Library Demo\\Class Library Demo.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\class library demo\\class library demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B84043-A8CB-407F-AA6A-56834058874C}|Class Library Demo\\Class Library Demo.csproj|solutionrelative:class library demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Class Library Demo\\Class Library Demo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Class Library Demo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Class Library Demo\\Class Library Demo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Class Library Demo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:35:51.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

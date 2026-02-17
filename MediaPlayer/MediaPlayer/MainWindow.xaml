@@ -1,0 +1,14 @@
+﻿<Window x:Class="MediaPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MediaPlayer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <TextBlock DockPanel.Dock="Top" Text="Videos"/>
+        <CheckBox DockPanel.Dock="Bottom" Name="newWindowCheckBox" Content="Open in nieuw venster"/>
+        <ListBox x:Name="videosListBox" MouseDoubleClick="vidoesListBox_MouseDoubleClick"/>
+    </DockPanel>
+</Window>
