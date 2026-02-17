@@ -29,7 +29,7 @@ namespace TodoManager.Infrastructure.Repositories
         public void Add(TodoItem todoItem)
         {
             int nextId = _todos.Count + 1;
-
+            todoItem.Id = nextId;
             _todos.Add(todoItem);
         }
 

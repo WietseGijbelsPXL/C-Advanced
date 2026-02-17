@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\
 TodoManager.WPF
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\App.xaml
-11407045341
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.WPF\App.xaml
+2-99204960
 
-61749901031
-201239877800
-MainWindow.xaml;
+71235257142
+2011714173375
+AddTodoWindow.xaml;TodoListWindow.xaml;
 
-False
+True
 
