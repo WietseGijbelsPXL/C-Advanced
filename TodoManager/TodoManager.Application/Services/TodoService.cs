@@ -42,7 +42,7 @@ namespace TodoManager.Application.Services
         {
             if (todoItem.DueDate.Date < DateTime.Today)
             {
-                throw new InvalidOperationException("De dueDqte is verlopen.");
+                throw new InvalidOperationException("De dueDate is verlopen.");
             }
 
             if (todoItem.IsCompleted)

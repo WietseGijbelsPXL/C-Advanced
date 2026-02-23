@@ -1,0 +1,6 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.UI\obj\Debug\net8.0-windows\ProductManager.UI.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.UI\obj\Debug\net8.0-windows\AddProductWindow.g.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.UI\obj\Debug\net8.0-windows\ProductListWindow.g.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.UI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.UI\obj\Debug\net8.0-windows\ProductManager.UI_MarkupCompile.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\ProductMgr\ProductManager.UI\obj\Debug\net8.0-windows\ProductManager.UI_MarkupCompile.lref

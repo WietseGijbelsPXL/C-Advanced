@@ -50,8 +50,7 @@
               "RelativeToolTip": "ProductManager\\Models\\Product.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T12:36:31.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T12:36:31.812Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "ProductManager\\AddProductWindow.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAUwCwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T16:15:38.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T16:15:38.125Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "ProductManager\\ProductListWindow.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T16:11:00.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T16:11:00.513Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\ProductListWindow.xaml",
               "RelativeToolTip": "ProductManager\\ProductListWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-09T16:09:07.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T16:09:07.629Z"
             },
             {
               "$type": "Document",
@@ -113,8 +109,7 @@
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\AddProductWindow.xaml",
               "RelativeToolTip": "ProductManager\\AddProductWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-09T16:10:05.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T16:10:05.487Z"
             }
           ]
         }

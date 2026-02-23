@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj": {}
+    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj": {
+    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj",
         "projectName": "TodoManager.Domain",
-        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj",
-        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TodoManager\\TodoManager.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

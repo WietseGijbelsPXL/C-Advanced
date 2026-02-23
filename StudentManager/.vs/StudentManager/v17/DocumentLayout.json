@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C5EACEF-FC3F-4337-AE93-A445D2D5EDFC}|StudentManager.Application.Test\\StudentManager.Application.Test.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\studentmanager\\studentmanager.application.test\\studentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5EACEF-FC3F-4337-AE93-A445D2D5EDFC}|StudentManager.Application.Test\\StudentManager.Application.Test.csproj|solutionrelative:studentmanager.application.test\\studentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30B35AF-95AA-4B4B-953C-D5120933E02C}|StudentManager.Domain.Test\\StudentManager.Domain.Test.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\studentmanager\\studentmanager.domain.test\\studenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30B35AF-95AA-4B4B-953C-D5120933E02C}|StudentManager.Domain.Test\\StudentManager.Domain.Test.csproj|solutionrelative:studentmanager.domain.test\\studenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996BCBB3-2A1D-46C6-BB92-D3BBF4E179CB}|StudentManager.Domain\\StudentManager.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\studentmanager\\studentmanager.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996BCBB3-2A1D-46C6-BB92-D3BBF4E179CB}|StudentManager.Domain\\StudentManager.Domain.csproj|solutionrelative:studentmanager.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BE488D9-4951-40CE-A9D0-8FB41D6E5839}|StudentManager.UI\\StudentManager.UI.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\studentmanager\\studentmanager.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BE488D9-4951-40CE-A9D0-8FB41D6E5839}|StudentManager.UI\\StudentManager.UI.csproj|solutionrelative:studentmanager.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{403BBEC4-D5D8-483F-A867-B357638A174E}|StudentManager.Application\\StudentManager.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\studentmanager\\studentmanager.application\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{403BBEC4-D5D8-483F-A867-B357638A174E}|StudentManager.Application\\StudentManager.Application.csproj|solutionrelative:studentmanager.application\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{996BCBB3-2A1D-46C6-BB92-D3BBF4E179CB}|StudentManager.Domain\\StudentManager.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\studentmanager\\studentmanager.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{996BCBB3-2A1D-46C6-BB92-D3BBF4E179CB}|StudentManager.Domain\\StudentManager.Domain.csproj|solutionrelative:studentmanager.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +38,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "StudentServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.Application.Test\\StudentServiceTest.cs",
+              "RelativeDocumentMoniker": "StudentManager.Application.Test\\StudentServiceTest.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.Application.Test\\StudentServiceTest.cs",
+              "RelativeToolTip": "StudentManager.Application.Test\\StudentServiceTest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwCMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:22:40.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentTest.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.Domain.Test\\StudentTest.cs",
+              "RelativeDocumentMoniker": "StudentManager.Domain.Test\\StudentTest.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.Domain.Test\\StudentTest.cs",
+              "RelativeToolTip": "StudentManager.Domain.Test\\StudentTest.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:02:42.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.Application\\StudentService.cs",
               "RelativeDocumentMoniker": "StudentManager.Application\\StudentService.cs",
@@ -46,12 +84,11 @@
               "RelativeToolTip": "StudentManager.Application\\StudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:13:15.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T13:13:15.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.Infrastructure\\StudentRepository.cs",
               "RelativeDocumentMoniker": "StudentManager.Infrastructure\\StudentRepository.cs",
@@ -59,43 +96,41 @@
               "RelativeToolTip": "StudentManager.Infrastructure\\StudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:08:30.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T13:08:30.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.Domain\\Student.cs",
               "RelativeDocumentMoniker": "StudentManager.Domain\\Student.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.Domain\\Student.cs",
               "RelativeToolTip": "StudentManager.Domain\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T13:07:18.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.UI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "StudentManager.UI\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.UI\\MainWindow.xaml",
               "RelativeToolTip": "StudentManager.UI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-17T13:05:46.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T13:05:46.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.UI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "StudentManager.UI\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\StudentManager\\StudentManager.UI\\MainWindow.xaml.cs",
               "RelativeToolTip": "StudentManager.UI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T13:05:42.692Z",
               "EditorCaption": ""

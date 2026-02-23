@@ -29,3 +29,4 @@ C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Infrastru
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Infrastructure\obj\Debug\net8.0\refint\TodoManager.Infrastructure.dll
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Infrastructure\obj\Debug\net8.0\TodoManager.Infrastructure.pdb
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Infrastructure\obj\Debug\net8.0\ref\TodoManager.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Infrastructure\obj\Debug\net8.0\TodoManager.Infrastructure.sourcelink.json

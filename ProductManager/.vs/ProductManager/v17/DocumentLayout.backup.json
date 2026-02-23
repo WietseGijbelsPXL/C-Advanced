@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\",
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\productmanager\\productmanager\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\productmanager\\productmanager\\productlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\productlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\productmanager\\productmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\productmanager\\productmanager\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\productmanager\\productmanager\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\productmanager\\productmanager\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\productmanager\\productmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\productmanager\\productmanager\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\productmanager\\productmanager\\productlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\productlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\productmanager\\productmanager\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\productmanager\\productmanager\\productlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\productmanager\\productmanager\\productlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{415C4C55-1DF2-4676-BB48-15235A317B00}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\productlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -42,52 +42,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\Services\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ProductManager\\Services\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\Services\\ProductRepository.cs",
-              "RelativeToolTip": "ProductManager\\Services\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T12:36:43.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductManager\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\Models\\Product.cs",
               "RelativeToolTip": "ProductManager\\Models\\Product.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAuwEEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T12:36:31.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AddProductWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\AddProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\AddProductWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProductManager\\AddProductWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\AddProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\AddProductWindow.xaml.cs",
               "RelativeToolTip": "ProductManager\\AddProductWindow.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T16:15:38.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\Services\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Services\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\Services\\ProductRepository.cs",
+              "RelativeToolTip": "ProductManager\\Services\\ProductRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:36:43.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductListWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\ProductListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\ProductListWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProductManager\\ProductListWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\ProductListWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\ProductListWindow.xaml.cs",
               "RelativeToolTip": "ProductManager\\ProductListWindow.xaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T16:11:00.513Z",
               "EditorCaption": ""
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ProductListWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\ProductListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\ProductListWindow.xaml",
               "RelativeDocumentMoniker": "ProductManager\\ProductListWindow.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\ProductListWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\ProductListWindow.xaml",
               "RelativeToolTip": "ProductManager\\ProductListWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-09T16:09:07.629Z",
@@ -108,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AddProductWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\AddProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\AddProductWindow.xaml",
               "RelativeDocumentMoniker": "ProductManager\\AddProductWindow.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\ProductManager\\ProductManager\\AddProductWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\ProductManager\\ProductManager\\AddProductWindow.xaml",
               "RelativeToolTip": "ProductManager\\AddProductWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-09T16:10:05.487Z",

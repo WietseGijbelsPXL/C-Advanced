@@ -1,5 +1,4 @@
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoManager.WPF.csproj.AssemblyReference.cache
-C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoManager.WPF_MarkupCompile.cache
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoManager.WPF_MarkupCompile.lref
@@ -14,7 +13,6 @@ C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\bin\Debug\net8.0-windows\TodoManager.Application.pdb
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\bin\Debug\net8.0-windows\TodoManager.Domain.pdb
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\bin\Debug\net8.0-windows\TodoManager.Infrastructure.pdb
-C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoManager.WPF.g.resources
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoManager.WPF.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoManager.WPF.AssemblyInfoInputs.cache
@@ -57,3 +55,8 @@ C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.WPF\obj\D
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoManager.WPF.pdb
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoManager.WPF.genruntimeconfig.cache
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\ref\TodoManager.WPF.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\AddTodoWindow.g.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoListWindow.g.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\AddTodoWindow.baml
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoListWindow.baml
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.WPF\obj\Debug\net8.0-windows\TodoManager.WPF.sourcelink.json

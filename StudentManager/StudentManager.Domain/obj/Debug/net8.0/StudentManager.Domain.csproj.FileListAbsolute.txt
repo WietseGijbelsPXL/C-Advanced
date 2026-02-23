@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\bin\Debug\net8.0\StudentManager.Domain.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\bin\Debug\net8.0\StudentManager.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\bin\Debug\net8.0\StudentManager.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\obj\Debug\net8.0\refint\StudentManager.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\obj\Debug\net8.0\StudentManager.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Domain\obj\Debug\net8.0\ref\StudentManager.Domain.dll

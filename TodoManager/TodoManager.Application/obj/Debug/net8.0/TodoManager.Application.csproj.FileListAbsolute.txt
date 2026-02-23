@@ -33,3 +33,4 @@ C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Applicati
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\refint\TodoManager.Application.dll
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\TodoManager.Application.pdb
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\ref\TodoManager.Application.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Application\obj\Debug\net8.0\TodoManager.Application.sourcelink.json

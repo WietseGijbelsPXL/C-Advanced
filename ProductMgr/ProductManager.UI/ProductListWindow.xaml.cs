@@ -1,4 +1,5 @@
-﻿using ProductManager.Services;
+﻿using ProductManager.Models;
+using ProductManager.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;

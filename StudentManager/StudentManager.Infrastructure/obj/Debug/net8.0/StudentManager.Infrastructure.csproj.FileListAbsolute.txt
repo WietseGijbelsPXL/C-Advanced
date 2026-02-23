@@ -1,0 +1,16 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\bin\Debug\net8.0\StudentManager.Infrastructure.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\bin\Debug\net8.0\StudentManager.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\bin\Debug\net8.0\StudentManager.Infrastructure.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\bin\Debug\net8.0\StudentManager.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\bin\Debug\net8.0\StudentManager.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\StudentManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\StudentManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\StudentManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\StudentManager.Infrastructure.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\StudentManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\StudentManager.Infrastructure.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\StudentM.11EA557D.Up2Date
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\StudentManager.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\refint\StudentManager.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\StudentManager.Infrastructure.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\StudentManager\StudentManager.Infrastructure\obj\Debug\net8.0\ref\StudentManager.Infrastructure.dll

@@ -21,3 +21,4 @@ C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Domain\ob
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Domain\obj\Debug\net8.0\refint\TodoManager.Domain.dll
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Domain\obj\Debug\net8.0\TodoManager.Domain.pdb
 C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\TodoManager\TodoManager.Domain\obj\Debug\net8.0\ref\TodoManager.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\TodoManager\TodoManager.Domain\obj\Debug\net8.0\TodoManager.Domain.sourcelink.json

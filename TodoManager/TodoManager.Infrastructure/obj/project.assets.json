@@ -27,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wiets\\.nuget\\packages\\": {}
+    "C:\\Users\\Eigenaar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TodoManager\\TodoManager.Infrastructure\\TodoManager.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Infrastructure\\TodoManager.Infrastructure.csproj",
       "projectName": "TodoManager.Infrastructure",
-      "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TodoManager\\TodoManager.Infrastructure\\TodoManager.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TodoManager\\TodoManager.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Infrastructure\\TodoManager.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj": {
-              "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj"
+            "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj": {
+              "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Domain\\TodoManager.Domain.csproj"
             }
           }
         }
@@ -90,7 +95,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
