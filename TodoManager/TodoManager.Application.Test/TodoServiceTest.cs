@@ -110,11 +110,9 @@ namespace TodoManager.Application.Test
             var todo = todos[0];
 
             todoService.CompleteTodo(todo);
+            Exception exception = Record.Exception(() => todoService.CompleteTodo(todo));
 
-            Assert.ThrowsAny<Exception>(() =>
-            {
-                todoService.CompleteTodo(todo);
-            });
+            Assert.Null(exception);
         }
     }
 }

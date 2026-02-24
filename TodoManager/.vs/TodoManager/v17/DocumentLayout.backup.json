@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|solutionrelative:todomanager.wpf\\todolistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\todomanager\\todomanager.wpf\\addtodowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|solutionrelative:todomanager.wpf\\addtodowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\todomanager\\todomanager.wpf\\todolistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|solutionrelative:todomanager.wpf\\todolistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\todomanager\\todomanager.wpf\\addtodowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|solutionrelative:todomanager.wpf\\addtodowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E32AE610-B26B-45AD-9A76-384E1D6127A2}|TodoManager.Infrastructure\\TodoManager.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\todomanager\\todomanager.infrastructure\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E32AE610-B26B-45AD-9A76-384E1D6127A2}|TodoManager.Infrastructure\\TodoManager.Infrastructure.csproj|solutionrelative:todomanager.infrastructure\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8DE0F0C4-5214-4F1B-9D0D-614440819548}|TodoManager.Domain\\TodoManager.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\todomanager\\todomanager.domain\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DE0F0C4-5214-4F1B-9D0D-614440819548}|TodoManager.Domain\\TodoManager.Domain.csproj|solutionrelative:todomanager.domain\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\todomanager\\todomanager.wpf\\addtodowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|solutionrelative:todomanager.wpf\\addtodowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\todomanager\\todomanager.wpf\\addtodowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3B224979-02C2-4E06-88A0-B7573BBA891B}|TodoManager.WPF\\TodoManager.WPF.csproj|solutionrelative:todomanager.wpf\\addtodowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,43 +50,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.WPF\\TodoListWindow.xaml",
+              "RelativeDocumentMoniker": "TodoManager.WPF\\TodoListWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.WPF\\TodoListWindow.xaml",
+              "RelativeToolTip": "TodoManager.WPF\\TodoListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T14:05:10.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TodoListWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.WPF\\TodoListWindow.xaml.cs",
               "RelativeDocumentMoniker": "TodoManager.WPF\\TodoListWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.WPF\\TodoListWindow.xaml.cs",
               "RelativeToolTip": "TodoManager.WPF\\TodoListWindow.xaml.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T16:56:26.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AddTodoWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.WPF\\AddTodoWindow.xaml.cs",
               "RelativeDocumentMoniker": "TodoManager.WPF\\AddTodoWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.WPF\\AddTodoWindow.xaml.cs",
               "RelativeToolTip": "TodoManager.WPF\\AddTodoWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAArwCMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwCMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T16:49:53.548Z"
+              "WhenOpened": "2026-02-17T16:49:53.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AddTodoWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.WPF\\AddTodoWindow.xaml",
               "RelativeDocumentMoniker": "TodoManager.WPF\\AddTodoWindow.xaml",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.WPF\\AddTodoWindow.xaml",
               "RelativeToolTip": "TodoManager.WPF\\AddTodoWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-17T16:48:23.928Z"
+              "WhenOpened": "2026-02-17T16:48:23.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TodoService.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Application\\Services\\TodoService.cs",
               "RelativeDocumentMoniker": "TodoManager.Application\\Services\\TodoService.cs",
@@ -95,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TodoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Infrastructure\\Repositories\\TodoRepository.cs",
               "RelativeDocumentMoniker": "TodoManager.Infrastructure\\Repositories\\TodoRepository.cs",
@@ -108,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\TodoManager\\TodoManager.Domain\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "TodoManager.Domain\\Models\\TodoItem.cs",
