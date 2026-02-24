@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AppointmentPlanner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AppointmentPlanner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppointmentPlanner.Domain.dll": {}
+        }
+      },
+      "AppointmentPlanner.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AppointmentPlanner.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AppointmentPlanner.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppointmentPlanner.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppointmentPlanner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AppointmentPlanner.Domain/AppointmentPlanner.Domain.csproj",
+      "msbuildProject": "../AppointmentPlanner.Domain/AppointmentPlanner.Domain.csproj"
+    },
+    "AppointmentPlanner.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../AppointmentPlanner.Infrastructure/AppointmentPlanner.Infrastructure.csproj",
+      "msbuildProject": "../AppointmentPlanner.Infrastructure/AppointmentPlanner.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AppointmentPlanner.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Eigenaar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj",
+      "projectName": "AppointmentPlanner.Application",
+      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj",
+      "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

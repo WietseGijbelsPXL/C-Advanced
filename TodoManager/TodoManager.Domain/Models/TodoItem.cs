@@ -21,10 +21,7 @@ namespace TodoManager.Domain.Models
             {
                 throw new ArgumentNullException("Titel mag niet leeg zijn.");
             }
-            else
-            {
-                Title = title;
-            }
+            Title = title;
             Description = description;
             DueDate = dueDate;
         }

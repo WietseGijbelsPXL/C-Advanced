@@ -55,6 +55,8 @@ namespace TodoManager.WPF
         private void AddButton_Click(object sender, RoutedEventArgs e)
         {
             AddTodoWindow addTodoWindow = new AddTodoWindow();
+            addTodoWindow.Owner = this;
+
             if (addTodoWindow.ShowDialog() != true)
             {
                 return;
@@ -62,38 +64,39 @@ namespace TodoManager.WPF
             try
             {
                 _todoService.AddTodo(addTodoWindow.TodoTitle, addTodoWindow.TodoDescription, addTodoWindow.TodoDueDate);
+                RefreshTodos();
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message,"Error",MessageBoxButton.OK, MessageBoxImage.Exclamation);
+                MessageBox.Show(ex.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Exclamation);
             }
         }
 
         private void CompleteButton_Click(object sender, RoutedEventArgs e)
         {
-            TodoItem? todoItem = (TodoItem)TodosListBox.SelectedItem;
+            TodoItem todoItem = (TodoItem)TodosListBox.SelectedItem;
 
             if (todoItem == null)
             {
-                MessageBox.Show("Er is geen item geselecteerd.","Error",MessageBoxButton.OK,MessageBoxImage.Exclamation);
+                MessageBox.Show("Er is geen item geselecteerd.", "Error", MessageBoxButton.OK, MessageBoxImage.Exclamation);
             }
             else
             {
                 try
                 {
                     _todoService.CompleteTodo(todoItem);
+                    RefreshTodos();
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Exclamation);
                 }
             }
-            RefreshTodos();
         }
 
         private void DeleteButton_Click(object sender, RoutedEventArgs e)
         {
-            TodoItem? todoItem = (TodoItem)TodosListBox.SelectedItem;
+            TodoItem todoItem = (TodoItem)TodosListBox.SelectedItem;
 
             if (todoItem == null)
             {
@@ -104,13 +107,13 @@ namespace TodoManager.WPF
                 try
                 {
                     _todoService.DeleteTodo(todoItem);
+                    RefreshTodos();
                 }
                 catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Exclamation);
                 }
             }
-            RefreshTodos();
         }
 
         private void RefreshButton_Click(object sender, RoutedEventArgs e)
@@ -120,7 +123,7 @@ namespace TodoManager.WPF
 
         private void TodosListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            TodoItem? todoItem = (TodoItem)TodosListBox.SelectedItem;
+            TodoItem todoItem = (TodoItem)TodosListBox.SelectedItem;
 
             if (todoItem == null)
             {

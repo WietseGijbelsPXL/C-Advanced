@@ -28,8 +28,7 @@ namespace TodoManager.Infrastructure.Repositories
 
         public void Add(TodoItem todoItem)
         {
-            int nextId = _todos.Count + 1;
-            todoItem.Id = nextId;
+            todoItem.Id = _todos.Count + 1;
             _todos.Add(todoItem);
         }
 
