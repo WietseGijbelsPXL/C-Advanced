@@ -1,0 +1,16 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\bin\Debug\net8.0\Data.txt
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\bin\Debug\net8.0\File IO Demo.exe
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\bin\Debug\net8.0\File IO Demo.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\bin\Debug\net8.0\File IO Demo.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\bin\Debug\net8.0\File IO Demo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\bin\Debug\net8.0\File IO Demo.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\obj\Debug\net8.0\File IO Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\obj\Debug\net8.0\File IO Demo.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\obj\Debug\net8.0\File IO Demo.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\obj\Debug\net8.0\File IO Demo.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\obj\Debug\net8.0\File IO Demo.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\obj\Debug\net8.0\File IO Demo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\obj\Debug\net8.0\refint\File IO Demo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\obj\Debug\net8.0\File IO Demo.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\obj\Debug\net8.0\File IO Demo.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\File IO Demo\File IO Demo\obj\Debug\net8.0\ref\File IO Demo.dll
