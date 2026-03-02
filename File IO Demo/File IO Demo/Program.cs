@@ -43,9 +43,16 @@ namespace File_IO_Demo
             //}
 
             DirectoryInfo dirinfo = new DirectoryInfo("C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\Data Advanced");
-            foreach (FileInfo file in dirinfo.GetFiles())
+            if (dirinfo.Exists)
             {
-                Console.WriteLine(file.FullName);
+                foreach (FileInfo file in dirinfo.GetFiles())
+                {
+                    Console.WriteLine(file.FullName);
+                }
+            }
+            else
+            {
+                dirinfo.CreateSubdirectory("testje");
             }
         }
     }
