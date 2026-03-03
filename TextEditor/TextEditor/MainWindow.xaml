@@ -7,10 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <DockPanel>
-        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top">
-            <Button Content="Open" Name="openButton" Click="openButton_Click"/>
-            <Button Content="Save" Name="saveButton" Click="saveButton_Click"/>
-            <Button Content="Save As" Name="saveAsButton"/>
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" >
+            <Button Content="Open" Name="openButton" Click="openButton_Click" Padding="10" Margin="5"/>
+            <Button Content="Save" Name="saveButton" Click="saveButton_Click" Padding="10" Margin="5"/>
+            <Button Content="Save As" Name="saveAsButton" Padding="10" Margin="5" Click="saveAsButton_Click"/>
         </StackPanel>
         <TextBox x:Name="editorTextBox" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap"/>
     </DockPanel>
