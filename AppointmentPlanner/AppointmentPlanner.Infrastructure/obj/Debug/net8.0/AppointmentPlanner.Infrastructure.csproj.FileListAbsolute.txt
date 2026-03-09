@@ -1,0 +1,16 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\bin\Debug\net8.0\AppointmentPlanner.Infrastructure.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\bin\Debug\net8.0\AppointmentPlanner.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\bin\Debug\net8.0\AppointmentPlanner.Infrastructure.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\bin\Debug\net8.0\AppointmentPlanner.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\bin\Debug\net8.0\AppointmentPlanner.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\AppointmentPlanner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\AppointmentPlanner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\AppointmentPlanner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\AppointmentPlanner.Infrastructure.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\AppointmentPlanner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\AppointmentPlanner.Infrastructure.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\Appointm.57493899.Up2Date
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\AppointmentPlanner.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\refint\AppointmentPlanner.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\AppointmentPlanner.Infrastructure.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Infrastructure\obj\Debug\net8.0\ref\AppointmentPlanner.Infrastructure.dll

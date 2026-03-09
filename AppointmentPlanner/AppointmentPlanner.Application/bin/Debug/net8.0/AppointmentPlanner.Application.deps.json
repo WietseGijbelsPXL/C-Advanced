@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AppointmentPlanner.Application/1.0.0": {
+        "dependencies": {
+          "AppointmentPlanner.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "AppointmentPlanner.Application.dll": {}
+        }
+      },
+      "AppointmentPlanner.Domain/1.0.0": {
+        "runtime": {
+          "AppointmentPlanner.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AppointmentPlanner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AppointmentPlanner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AppointmentPlanner.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppointmentPlanner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppointmentPlanner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppointmentPlanner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -29,19 +29,30 @@ namespace AppointmentPlanner.Application
 
         public List<Appointment> GetAppointmentsForRoom(Room room)
         {
-            return _schedulerRepository.GetAllAppointments().Where((app) => app.Room == room).ToList();
+            return _schedulerRepository.GetAllAppointments().FindAll((app) => app.Room == room);
         }
 
         public List<Appointment> GetAppointmentsForDay(DateTime day)
         {
-            return _schedulerRepository.GetAllAppointments().Where((app) => app.StartTime == day).ToList();
+            return _schedulerRepository.GetAllAppointments().FindAll((app) => app.StartTime.Date == day.Date);
         }
 
         public void AddAppointment(string title, DateTime startTime, DateTime endTime, int participantsCount, Room room)
         {
-            _schedulerRepository.AddAppointment(new Appointment(title, startTime, endTime, participantsCount, room));
+            if (GetAppointmentsForRoom(room).Where((app) => (app.StartTime < endTime && app.StartTime > startTime) 
+            || (app.EndTime > startTime && app.EndTime < endTime)) == null)
+            {
+                if (room.MaxCapacity > participantsCount)
+                {
+                    _schedulerRepository.AddAppointment(new Appointment(title, startTime, endTime, participantsCount, room));
+                }
+            }
         }
 
-        //cancelappointment
+        public void CancelAppointment(Appointment appointment)
+        {
+            if (appointment.StartTime < DateTime.Now) throw new ArgumentException("Gestarte vegaderingen kunnen niet geannuleerd worden.");
+            _schedulerRepository.CancelAppointment(appointment);
+        }
     }
 }

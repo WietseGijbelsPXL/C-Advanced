@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\bin\Debug\net8.0\AppointmentPlanner.Domain.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\bin\Debug\net8.0\AppointmentPlanner.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\bin\Debug\net8.0\AppointmentPlanner.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\obj\Debug\net8.0\AppointmentPlanner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\obj\Debug\net8.0\AppointmentPlanner.Domain.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\obj\Debug\net8.0\AppointmentPlanner.Domain.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\obj\Debug\net8.0\AppointmentPlanner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\obj\Debug\net8.0\AppointmentPlanner.Domain.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\obj\Debug\net8.0\AppointmentPlanner.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\obj\Debug\net8.0\refint\AppointmentPlanner.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\obj\Debug\net8.0\AppointmentPlanner.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Domain\obj\Debug\net8.0\ref\AppointmentPlanner.Domain.dll

@@ -1,12 +1,45 @@
-﻿<Window x:Class="AppointmentPlanner.Presentation.MainWindow"
+﻿<Window x:Class="AppointmentPlanner.Presentation.AddAppointmentWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AppointmentPlanner.Presentation"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="AddAppointmentWindow" Height="450" Width="800">
+    <Grid Margin="10">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,10">
+            <TextBlock Text="Room:" Margin="0,0,10,0"/>
+            <ComboBox x:Name="RoomComboBox" Width="200" Margin="0,0,20,0"/>
+            <TextBlock Text="Day:" Margin="0,0,10,0"/>
+            <DatePicker x:Name="DayPicker" Width="150"/>
+        </StackPanel>
+
+        <ListBox x:Name="appointmentsListBox"
+                 Grid.Row="1"
+                 Margin="0,0,0,10"/>
+
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Right"
+                    Grid.Row="2">
+            <Button Content="Add Appointment"
+                    Width="150"
+                    Margin="0,0,10,0"
+                    Name="addAppointmentButton" Click="addAppointmentButton_Click"/>
+            <Button Content="Cancel Appointment"
+                    Width="150"
+                    Margin="0,0,10,0"
+                    Name="cancelAppointmentButton" Click="cancelAppointmentButton_Click"/>
+            <Button Content="Refresh"
+                    Width="150"
+                    Name="refreshButton" Click="refreshButton_Click"/>
+        </StackPanel>
 
     </Grid>
 </Window>
