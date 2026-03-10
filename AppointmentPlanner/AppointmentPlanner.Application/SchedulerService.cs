@@ -39,14 +39,14 @@ namespace AppointmentPlanner.Application
 
         public void AddAppointment(string title, DateTime startTime, DateTime endTime, int participantsCount, Room room)
         {
-            if (GetAppointmentsForRoom(room).Where((app) => (app.StartTime < endTime && app.StartTime > startTime) 
-            || (app.EndTime > startTime && app.EndTime < endTime)) == null)
-            {
+            //if (GetAppointmentsForRoom(room).Where((app) => (app.StartTime < endTime && app.StartTime > startTime) 
+            //|| (app.EndTime > startTime && app.EndTime < endTime)) == null)
+            //{
                 if (room.MaxCapacity > participantsCount)
                 {
                     _schedulerRepository.AddAppointment(new Appointment(title, startTime, endTime, participantsCount, room));
                 }
-            }
+            //}
         }
 
         public void CancelAppointment(Appointment appointment)

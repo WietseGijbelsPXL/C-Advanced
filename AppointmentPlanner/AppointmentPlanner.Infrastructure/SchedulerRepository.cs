@@ -20,8 +20,8 @@ namespace AppointmentPlanner.Infrastructure
             _rooms.Add(new Room("Vergaderzaal3", 15));
             _rooms.Add(new Room("Privé lokaal", 5));
             _rooms.Add(new Room("Aula", 60));
-            _appointments.Add(new Appointment("Teamoverleg", new DateTime(2024, 6, 20, 10, 0, 0), new DateTime(2024, 6, 20, 11, 0, 0), 10, _rooms[0]));
-            _appointments.Add(new Appointment("Projectbespreking", new DateTime(2024, 6, 20, 11, 0, 0), new DateTime(2024, 6, 20, 12, 0, 0), 8, _rooms[1]));
+            _appointments.Add(new Appointment("Teamoverleg", new DateTime(2027, 6, 20, 10, 0, 0), new DateTime(2027, 6, 20, 11, 0, 0), 10, _rooms[0]));
+            _appointments.Add(new Appointment("Projectbespreking", new DateTime(2027, 6, 20, 11, 0, 0), new DateTime(2027, 6, 20, 12, 0, 0), 8, _rooms[1]));
         }
 
         public void AddRoom(Room room)

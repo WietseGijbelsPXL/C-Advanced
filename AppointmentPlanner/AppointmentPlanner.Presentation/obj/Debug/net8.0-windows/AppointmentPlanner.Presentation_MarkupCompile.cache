@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\App.xaml
-11257010139
+2-1630911816
 
-4965475449
+582429240
 20190105215
-AddAppointmentWindow.xaml;
+AddAppointmentWindow.xaml;MainWindow.xaml;
 
 False
 
