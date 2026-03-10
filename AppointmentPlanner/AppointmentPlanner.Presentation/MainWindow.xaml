@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AppointmentPlanner.Presentation"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Closing="Window_Closing">
     <Grid Margin="10">
 
         <Grid.RowDefinitions>
@@ -39,6 +39,9 @@
             <Button Content="Refresh"
                   Width="150"
                   Name="refreshButton" Click="refreshButton_Click"/>
+            <Button Content="Save"
+      Width="150"
+      Name="saveButton" Click="saveButton_Click"/>
         </StackPanel>
 
     </Grid>

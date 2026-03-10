@@ -7,40 +7,32 @@
       "RelativeMoniker": "D:0:0:{8B6207F6-32DE-430B-A9F5-24F4AC6E8286}|AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj|solutionrelative:appointmentplanner.infrastructure\\appointmentsjsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6207F6-32DE-430B-A9F5-24F4AC6E8286}|AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.infrastructure\\roomscsvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6207F6-32DE-430B-A9F5-24F4AC6E8286}|AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj|solutionrelative:appointmentplanner.infrastructure\\roomscsvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|solutionrelative:appointmentplanner.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6BB782-0A17-4D18-82CB-150CECA8ACDC}|AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6BB782-0A17-4D18-82CB-150CECA8ACDC}|AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj|solutionrelative:appointmentplanner.domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.presentation\\addappointmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|solutionrelative:appointmentplanner.presentation\\addappointmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6207F6-32DE-430B-A9F5-24F4AC6E8286}|AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.infrastructure\\schedulerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B6207F6-32DE-430B-A9F5-24F4AC6E8286}|AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj|solutionrelative:appointmentplanner.infrastructure\\schedulerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|solutionrelative:appointmentplanner.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACC44A17-66D2-4044-B80F-1B586CA716CC}|AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.application\\schedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACC44A17-66D2-4044-B80F-1B586CA716CC}|AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj|solutionrelative:appointmentplanner.application\\schedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B6207F6-32DE-430B-A9F5-24F4AC6E8286}|AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.infrastructure\\schedulerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6207F6-32DE-430B-A9F5-24F4AC6E8286}|AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj|solutionrelative:appointmentplanner.infrastructure\\schedulerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6207F6-32DE-430B-A9F5-24F4AC6E8286}|AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.infrastructure\\roomscsvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6207F6-32DE-430B-A9F5-24F4AC6E8286}|AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj|solutionrelative:appointmentplanner.infrastructure\\roomscsvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.presentation\\addappointmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|solutionrelative:appointmentplanner.presentation\\addappointmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.presentation\\addappointmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|solutionrelative:appointmentplanner.presentation\\addappointmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6BB782-0A17-4D18-82CB-150CECA8ACDC}|AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.domain\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6BB782-0A17-4D18-82CB-150CECA8ACDC}|AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj|solutionrelative:appointmentplanner.domain\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\appointmentplanner\\appointmentplanner.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DAF7F64C-00BA-424E-B18F-F596307B7D77}|AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj|solutionrelative:appointmentplanner.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "RoomsCsvRepository.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\RoomsCsvRepository.cs",
               "RelativeDocumentMoniker": "AppointmentPlanner.Infrastructure\\RoomsCsvRepository.cs",
@@ -70,8 +62,7 @@
               "RelativeToolTip": "AppointmentPlanner.Infrastructure\\RoomsCsvRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:19:50.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T13:19:50.655Z"
             },
             {
               "$type": "Document",
@@ -81,7 +72,7 @@
               "RelativeDocumentMoniker": "AppointmentPlanner.Infrastructure\\AppointmentsJsonRepository.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentsJsonRepository.cs",
               "RelativeToolTip": "AppointmentPlanner.Infrastructure\\AppointmentsJsonRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T13:19:43.21Z",
               "EditorCaption": ""
@@ -96,37 +87,35 @@
               "RelativeToolTip": "AppointmentPlanner.Presentation\\AddAppointmentWindow.xaml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAvwCcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T12:47:19.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T12:47:19.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AddAppointmentWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AddAppointmentWindow.xaml",
               "RelativeDocumentMoniker": "AppointmentPlanner.Presentation\\AddAppointmentWindow.xaml",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AddAppointmentWindow.xaml",
               "RelativeToolTip": "AppointmentPlanner.Presentation\\AddAppointmentWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-10T12:47:02.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T12:47:02.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AppointmentPlanner.Presentation\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\MainWindow.xaml.cs",
               "RelativeToolTip": "AppointmentPlanner.Presentation\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwDEAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T12:46:31.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AppointmentPlanner.Presentation\\MainWindow.xaml",
@@ -138,54 +127,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "SchedulerService.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\SchedulerService.cs",
               "RelativeDocumentMoniker": "AppointmentPlanner.Application\\SchedulerService.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\SchedulerService.cs",
               "RelativeToolTip": "AppointmentPlanner.Application\\SchedulerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T13:27:09.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "SchedulerRepository.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\SchedulerRepository.cs",
               "RelativeDocumentMoniker": "AppointmentPlanner.Infrastructure\\SchedulerRepository.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\SchedulerRepository.cs",
               "RelativeToolTip": "AppointmentPlanner.Infrastructure\\SchedulerRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBYAAABzAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T13:12:50.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\Appointment.cs",
-              "RelativeDocumentMoniker": "AppointmentPlanner.Domain\\Appointment.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\Appointment.cs",
-              "RelativeToolTip": "AppointmentPlanner.Domain\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:48:44.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\Room.cs",
-              "RelativeDocumentMoniker": "AppointmentPlanner.Domain\\Room.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\Room.cs",
-              "RelativeToolTip": "AppointmentPlanner.Domain\\Room.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:48:32.038Z",
               "EditorCaption": ""
             }
           ]

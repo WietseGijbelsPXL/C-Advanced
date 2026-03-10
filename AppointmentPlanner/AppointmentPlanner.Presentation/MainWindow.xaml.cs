@@ -55,5 +55,18 @@ namespace AppointmentPlanner.Presentation
         {
             FillListBox();
         }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            if(!_schedulerService.AppointmentsSaved && MessageBox.Show("Er zijn wijzigingen die nog niet zijn opgeslagen. Weet u zeker dat u wilt afsluiten?", "Niet opgeslagen", MessageBoxButton.YesNo, MessageBoxImage.Warning) == MessageBoxResult.No)
+            {
+                e.Cancel = true;
+            }
+        }
+
+        private void saveButton_Click(object sender, RoutedEventArgs e)
+        {
+            _schedulerService.SaveAll();
+        }
     }
 }

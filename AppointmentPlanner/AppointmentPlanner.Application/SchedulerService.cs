@@ -10,11 +10,14 @@ namespace AppointmentPlanner.Application
 {
     public class SchedulerService
     {
+        public bool AppointmentsSaved => _appointmentRepository.IsSaved;
         private readonly SchedulerRepository _schedulerRepository;
+        AppointmentsJsonRepository _appointmentRepository;
 
         public SchedulerService()
         {
             _schedulerRepository = new SchedulerRepository();
+            _appointmentRepository = new AppointmentsJsonRepository();
         }
 
         public List<Room> GetAllRooms()
@@ -24,17 +27,17 @@ namespace AppointmentPlanner.Application
 
         public List<Appointment> GetAllAppointment()
         {
-            return _schedulerRepository.GetAllAppointments();
+            return _appointmentRepository.GetAllAppointments();
         }
 
         public List<Appointment> GetAppointmentsForRoom(Room room)
         {
-            return _schedulerRepository.GetAllAppointments().FindAll((app) => app.Room == room);
+            return _appointmentRepository.GetAllAppointments().FindAll((app) => app.Room == room);
         }
 
         public List<Appointment> GetAppointmentsForDay(DateTime day)
         {
-            return _schedulerRepository.GetAllAppointments().FindAll((app) => app.StartTime.Date == day.Date);
+            return _appointmentRepository.GetAllAppointments().FindAll((app) => app.StartTime.Date == day.Date);
         }
 
         public void AddAppointment(string title, DateTime startTime, DateTime endTime, int participantsCount, Room room)
@@ -42,17 +45,22 @@ namespace AppointmentPlanner.Application
             //if (GetAppointmentsForRoom(room).Where((app) => (app.StartTime < endTime && app.StartTime > startTime) 
             //|| (app.EndTime > startTime && app.EndTime < endTime)) == null)
             //{
-                if (room.MaxCapacity > participantsCount)
-                {
-                    _schedulerRepository.AddAppointment(new Appointment(title, startTime, endTime, participantsCount, room));
-                }
+            if (room.MaxCapacity > participantsCount)
+            {
+                _appointmentRepository.AddAppointment(new Appointment(title, startTime, endTime, participantsCount, room));
+            }
             //}
         }
 
         public void CancelAppointment(Appointment appointment)
         {
             if (appointment.StartTime < DateTime.Now) throw new ArgumentException("Gestarte vegaderingen kunnen niet geannuleerd worden.");
-            _schedulerRepository.CancelAppointment(appointment);
+            _appointmentRepository.CancelAppointment(appointment);
+        }
+
+        public void SaveAll()
+        {
+            _appointmentRepository.Save();
         }
     }
 }
