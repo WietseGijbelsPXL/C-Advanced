@@ -13,7 +13,7 @@ namespace AppointmentPlanner.Infrastructure
         public void Import()
         {
             string content = File.ReadAllText("appointments.json");
-            var appointments = JsonSerializer.Deserialize<List<Appointment>>(content);
+            List<Appointment> appointments = JsonSerializer.Deserialize<List<Appointment>>(content);
         }
     }
 }

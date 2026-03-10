@@ -141,7 +141,7 @@ namespace AppointmentPlanner.Presentation {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AppointmentPlanner.Presentation;component/addappointmentwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AppointmentPlanner.Presentation;V1.0.0.0;component/addappointmentwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddAppointmentWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

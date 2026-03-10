@@ -70,8 +70,7 @@
               "RelativeToolTip": "AppointmentPlanner.Infrastructure\\RoomsCsvRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:19:50.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T13:19:50.655Z"
             },
             {
               "$type": "Document",
@@ -81,7 +80,7 @@
               "RelativeDocumentMoniker": "AppointmentPlanner.Infrastructure\\AppointmentsJsonRepository.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentsJsonRepository.cs",
               "RelativeToolTip": "AppointmentPlanner.Infrastructure\\AppointmentsJsonRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T13:19:43.21Z",
               "EditorCaption": ""
@@ -96,8 +95,7 @@
               "RelativeToolTip": "AppointmentPlanner.Presentation\\AddAppointmentWindow.xaml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAvwCcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T12:47:19.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T12:47:19.019Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AddAppointmentWindow.xaml",
               "RelativeToolTip": "AppointmentPlanner.Presentation\\AddAppointmentWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-10T12:47:02.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T12:47:02.608Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "AppointmentPlanner.Presentation\\MainWindow.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwDEAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T12:46:31.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T12:46:31.791Z"
             },
             {
               "$type": "Document",
@@ -133,8 +129,7 @@
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\MainWindow.xaml",
               "RelativeToolTip": "AppointmentPlanner.Presentation\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-10T12:46:04.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T12:46:04.06Z"
             },
             {
               "$type": "Document",
@@ -146,8 +141,7 @@
               "RelativeToolTip": "AppointmentPlanner.Application\\SchedulerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:27:09.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T13:27:09.941Z"
             },
             {
               "$type": "Document",
@@ -159,8 +153,7 @@
               "RelativeToolTip": "AppointmentPlanner.Infrastructure\\SchedulerRepository.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAgwBYAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:12:50.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T13:12:50.661Z"
             },
             {
               "$type": "Document",
@@ -172,8 +165,7 @@
               "RelativeToolTip": "AppointmentPlanner.Domain\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:48:44.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T12:48:44.396Z"
             },
             {
               "$type": "Document",
@@ -185,8 +177,7 @@
               "RelativeToolTip": "AppointmentPlanner.Domain\\Room.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:48:32.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T12:48:32.038Z"
             }
           ]
         }
