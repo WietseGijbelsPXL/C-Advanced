@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoManager.Domain.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+544305feb8cafadd5d7fcc31c74004b9b65fbede")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15166c50aa22c1da3621f44f62ad72d64da16669")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoManager.Domain.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoManager.Domain.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

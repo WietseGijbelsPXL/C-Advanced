@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppointmentPlanner.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a186256e4b077cd65293392aa969a4170410ca8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caf6affaa24cc50f63651430558aa04ec27f7853")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppointmentPlanner.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppointmentPlanner.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

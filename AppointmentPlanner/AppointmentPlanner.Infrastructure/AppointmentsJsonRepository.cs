@@ -10,7 +10,7 @@ namespace AppointmentPlanner.Infrastructure
 {
     public class AppointmentsJsonRepository
     {
-        public bool IsSaved { get; set; }
+        public bool IsSaved { get; set; } = true;
         List<Appointment> _appointments;
 
         public AppointmentsJsonRepository()

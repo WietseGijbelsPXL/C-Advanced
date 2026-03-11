@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "C# Advanced",
+    "StartTime": "2026-03-10T09:00:00",
+    "EndTime": "2026-03-10T10:00:00",
+    "ParticipantsCount": 13,
+    "Room": {
+      "Number": "fe70817f-4846-4ca5-8561-8a7d4b7089d1",
+      "Name": "Paccioli",
+      "MaxCapacity": 300
+    },
+    "IsCancelled": false,
+    "CreatedAt": "0001-01-01T00:00:00",
+    "Duration": "01:00:00"
+  },
+  {
+    "Title": "Lunchmeeting",
+    "StartTime": "2026-03-10T11:00:00",
+    "EndTime": "2026-03-10T13:00:00",
+    "ParticipantsCount": 5,
+    "Room": {
+      "Number": "fe70817f-4846-4ca5-8561-8a7d4b7089d1",
+      "Name": "Paccioli",
+      "MaxCapacity": 300
+    },
+    "IsCancelled": false,
+    "CreatedAt": "0001-01-01T00:00:00",
+    "Duration": "02:00:00"
+  },
+  {
+    "Title": "C# Monitoraat",
+    "StartTime": "2026-03-12T10:30:00",
+    "EndTime": "2026-03-12T12:30:00",
+    "ParticipantsCount": 17,
+    "Room": {
+      "Number": "1cd5c93e-5234-4071-bba0-ceeeb3467bd0",
+      "Name": "Restaurant",
+      "MaxCapacity": 1000
+    },
+    "IsCancelled": false,
+    "CreatedAt": "2026-03-10T15:09:24.6315308+01:00",
+    "Duration": "02:00:00"
+  },
+  {
+    "Title": "test",
+    "StartTime": "2026-03-10T10:00:00",
+    "EndTime": "2026-03-10T12:00:00",
+    "ParticipantsCount": 27,
+    "Room": {
+      "Number": "f18a8d67-c199-4e0a-b373-54cf5b0896d4",
+      "Name": "Paccioli",
+      "MaxCapacity": 300
+    },
+    "IsCancelled": false,
+    "CreatedAt": "2026-03-10T15:22:48.9199546+01:00",
+    "Duration": "02:00:00"
+  }
+]

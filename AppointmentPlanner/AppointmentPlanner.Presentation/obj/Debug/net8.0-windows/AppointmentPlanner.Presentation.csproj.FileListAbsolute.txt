@@ -29,3 +29,34 @@ C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\Appoi
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AddAppointmentWindow.baml
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Presentation.exe
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Presentation.deps.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Presentation.runtimeconfig.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Presentation.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Presentation.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Application.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Domain.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Infrastructure.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Application.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Domain.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\bin\Debug\net8.0-windows\AppointmentPlanner.Infrastructure.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation.csproj.AssemblyReference.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AddAppointmentWindow.g.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation_MarkupCompile.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation_MarkupCompile.lref
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AddAppointmentWindow.baml
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation.g.resources
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation.AssemblyInfoInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation.AssemblyInfo.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation.sourcelink.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\Appointm.A8EE7D74.Up2Date
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\refint\AppointmentPlanner.Presentation.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\AppointmentPlanner.Presentation.genruntimeconfig.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\ref\AppointmentPlanner.Presentation.dll

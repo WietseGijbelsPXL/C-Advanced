@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\obj\Debug\net8.0-windows\
 AppointmentPlanner.Presentation
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\App.xaml
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\AppointmentPlanner\AppointmentPlanner.Presentation\App.xaml
 2-1630911816
 
 7-572305954
-20190105215
+201406900258
 AddAppointmentWindow.xaml;MainWindow.xaml;
 
 True

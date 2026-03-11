@@ -10,19 +10,19 @@ namespace AppointmentPlanner.Application
 {
     public class SchedulerService
     {
-        public bool AppointmentsSaved => _appointmentRepository.IsSaved;
-        private readonly SchedulerRepository _schedulerRepository;
+        public bool AppointmentsSaved => _appointmentRepository.IsSaved && _roomsRepository.IsSaved;
+        RoomsCsvRepository _roomsRepository;
         AppointmentsJsonRepository _appointmentRepository;
 
         public SchedulerService()
         {
-            _schedulerRepository = new SchedulerRepository();
+            _roomsRepository = new RoomsCsvRepository();
             _appointmentRepository = new AppointmentsJsonRepository();
         }
 
         public List<Room> GetAllRooms()
         {
-            return _schedulerRepository.GetAllRooms();
+            return _roomsRepository.GetAllRooms();
         }
 
         public List<Appointment> GetAllAppointment()
@@ -61,6 +61,12 @@ namespace AppointmentPlanner.Application
         public void SaveAll()
         {
             _appointmentRepository.Save();
+            _roomsRepository.Save();
+        }
+
+        public void AddRoom(string title, int maxCapacity)
+        {
+            _roomsRepository.AddRoom(new Room(title,maxCapacity));
         }
     }
 }
