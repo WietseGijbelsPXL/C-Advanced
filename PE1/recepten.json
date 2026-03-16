@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "1f2b7e1a-4c4e-4a1e-9d4b-1c6a2d0a9e11",
+    "Name": "Spaghetti Bolognese",
+    "PreparationTime": 45,
+    "Difficulty": "Medium",
+    "Ingredients": [
+      "Spaghetti",
+      "Gehakt",
+      "Tomatensaus"
+    ]
+  },
+  {
+    "Id": "a92c3f02-0d1f-4c16-b9b2-6b8e91d3a122",
+    "Name": "Pannekoeken",
+    "PreparationTime": 2,
+    "Difficulty": "Makkelijk",
+    "Ingredients": [
+      "Bloem",
+      "Melk",
+      "Eieren"
+    ]
+  },
+  {
+    "Id": "bb8d9c51-5a48-4f5b-bc9a-34a98f2d3c44",
+    "Name": "Kippensalade",
+    "PreparationTime": 15,
+    "Difficulty": "Makkelijk",
+    "Ingredients": [
+      "Geraspte kip",
+      "Mayonaise",
+      "Mosterd"
+    ]
+  },
+  {
+    "Id": "118cb7aa-8d0f-4b5c-a73f-8767b0b44262",
+    "Name": "errer",
+    "PreparationTime": 12,
+    "Difficulty": "Makkelijk",
+    "Ingredients": [
+      "eerere"
+    ]
+  }
+]
