@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\Multiple windows.csproj",
+      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\Multiple windows.csproj",
       "projectName": "Multiple windows",
-      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\Multiple windows.csproj",
+      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\Multiple windows.csproj",
       "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\obj\\",
+      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

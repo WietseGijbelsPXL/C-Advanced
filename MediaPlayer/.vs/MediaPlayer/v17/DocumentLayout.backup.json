@@ -85,7 +85,8 @@
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\Themes\\DarkTheme.xaml",
               "RelativeToolTip": "MediaPlayer\\Themes\\DarkTheme.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-16T16:14:43.753Z"
+              "WhenOpened": "2026-02-16T16:14:43.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -107,7 +108,8 @@
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\MediaPlayer\\MediaPlayer\\App.xaml",
               "RelativeToolTip": "MediaPlayer\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-16T16:15:18.964Z"
+              "WhenOpened": "2026-02-16T16:15:18.964Z",
+              "EditorCaption": ""
             }
           ]
         }

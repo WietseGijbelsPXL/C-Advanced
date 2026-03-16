@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj": {}
+    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj": {
+    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj",
         "projectName": "AppointmentPlanner.Application",
-        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj",
-        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\obj\\",
+        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj",
+        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj"
+              "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj"
               }
             }
           }
@@ -65,21 +69,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj": {
+    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj",
         "projectName": "AppointmentPlanner.Domain",
-        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj",
-        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj",
+        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,21 +134,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj": {
+    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj",
         "projectName": "AppointmentPlanner.Infrastructure",
-        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,8 +166,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj": {
-                "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj"
+              "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj": {
+                "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj"
               }
             }
           }
@@ -191,21 +203,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj": {
+    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj",
         "projectName": "AppointmentPlanner.Presentation",
-        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj",
-        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\obj\\",
+        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\AppointmentPlanner.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Presentation\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -219,8 +235,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj": {
-                "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj"
+              "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj": {
+                "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj"
               }
             }
           }
@@ -259,7 +275,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

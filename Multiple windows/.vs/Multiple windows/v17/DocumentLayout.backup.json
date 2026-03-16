@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\",
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\multiple windows\\multiple windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\multiple windows\\multiple windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\multiple windows\\multiple windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\multiple windows\\multiple windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\multiple windows\\multiple windows\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\multiple windows\\multiple windows\\listwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\multiple windows\\multiple windows\\listwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\listwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\multiple windows\\multiple windows\\listwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\multiple windows\\multiple windows\\listwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\listwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\multiple windows\\multiple windows\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\multiple windows\\multiple windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\multiple windows\\multiple windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\multiple windows\\multiple windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\multiple windows\\multiple windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\multiple windows\\multiple windows\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\multiple windows\\multiple windows\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34C6C698-FB84-40FC-A974-1B9EDC1C82C6}|Multiple windows\\Multiple windows.csproj|solutionrelative:multiple windows\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,32 +42,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Multiple windows\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\MainWindow.xaml.cs",
               "RelativeToolTip": "Multiple windows\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T15:16:08.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Multiple windows\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\MainWindow.xaml",
               "RelativeToolTip": "Multiple windows\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-09T15:15:17.915Z",
@@ -75,74 +79,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DetailWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\DetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\DetailWindow.xaml",
               "RelativeDocumentMoniker": "Multiple windows\\DetailWindow.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\DetailWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\DetailWindow.xaml",
               "RelativeToolTip": "Multiple windows\\DetailWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-09T15:07:18.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T15:07:18.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\App.xaml.cs",
               "RelativeDocumentMoniker": "Multiple windows\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\App.xaml.cs",
               "RelativeToolTip": "Multiple windows\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T15:02:18.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T15:02:18.969Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "DetailWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\DetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\DetailWindow.xaml.cs",
               "RelativeDocumentMoniker": "Multiple windows\\DetailWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\DetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\DetailWindow.xaml.cs",
               "RelativeToolTip": "Multiple windows\\DetailWindow.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T15:00:59.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T15:00:59.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ListWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\ListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\ListWindow.xaml.cs",
               "RelativeDocumentMoniker": "Multiple windows\\ListWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\ListWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\ListWindow.xaml.cs",
               "RelativeToolTip": "Multiple windows\\ListWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T14:53:48.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\App.xaml",
               "RelativeDocumentMoniker": "Multiple windows\\App.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\App.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\App.xaml",
               "RelativeToolTip": "Multiple windows\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-09T14:49:59.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T14:49:59.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ListWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\ListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\ListWindow.xaml",
               "RelativeDocumentMoniker": "Multiple windows\\ListWindow.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Multiple windows\\Multiple windows\\ListWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Multiple windows\\Multiple windows\\ListWindow.xaml",
               "RelativeToolTip": "Multiple windows\\ListWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-09T14:49:41.109Z",
