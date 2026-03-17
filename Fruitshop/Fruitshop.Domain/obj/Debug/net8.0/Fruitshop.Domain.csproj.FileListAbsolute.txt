@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\bin\Debug\net8.0\Fruitshop.Domain.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\bin\Debug\net8.0\Fruitshop.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\bin\Debug\net8.0\Fruitshop.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\obj\Debug\net8.0\Fruitshop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\obj\Debug\net8.0\Fruitshop.Domain.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\obj\Debug\net8.0\Fruitshop.Domain.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\obj\Debug\net8.0\Fruitshop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\obj\Debug\net8.0\Fruitshop.Domain.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\obj\Debug\net8.0\Fruitshop.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\obj\Debug\net8.0\refint\Fruitshop.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\obj\Debug\net8.0\Fruitshop.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Domain\obj\Debug\net8.0\ref\Fruitshop.Domain.dll

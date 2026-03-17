@@ -8,4 +8,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Fruitshop.Application\Fruitshop.Application.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -11,4 +11,8 @@
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Fruitshop.Domain\Fruitshop.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

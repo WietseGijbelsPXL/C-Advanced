@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Fruitshop.Application;
+using Fruitshop.Domain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +21,38 @@ namespace Fruitshop.Presentation
     /// </summary>
     public partial class OverviewWindow : Window
     {
+        FruitService _service;
+
         public OverviewWindow()
         {
             InitializeComponent();
+
+            _service = new FruitService(new Infrastructure.FruitRepository());
+            fruitListBox.ItemsSource = _service.GetAllFruits();
+
+        }
+
+        private void createFruitButton_Click(object sender, RoutedEventArgs e)
+        {
+            EditFruitWindow editFruitWindow = new EditFruitWindow(null, _service);
+            if (editFruitWindow.ShowDialog() == true)
+            {
+                fruitListBox.ItemsSource = _service.GetAllFruits();
+            }
+        }
+
+        private void deleteFruitButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void fruitListBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            EditFruitWindow editFruitWindow = new EditFruitWindow((Fruit)fruitListBox.SelectedItem, _service);
+            if (editFruitWindow.ShowDialog() == true)
+            {
+                fruitListBox.ItemsSource = _service.GetAllFruits();
+            }
         }
     }
 }

@@ -12,15 +12,15 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <ListBox x:Name="fruitListBox" Margin="20,20,20,10" />
+        <ListBox x:Name="fruitListBox" Margin="20,20,20,10" MouseDoubleClick="fruitListBox_MouseDoubleClick" />
 
         <Grid Margin="20,0,20,20" Grid.Row="1" Background="Black">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
-            <Button x:Name="createFruitButton" Grid.Column="0" Margin="5" Padding="10" Content="Create"/>
-            <Button x:Name="deleteFruitButton" Grid.Column="1" Margin="5" Padding="10" Content="Delete"/>
+            <Button x:Name="createFruitButton" Grid.Column="0" Margin="5" Padding="10" Content="Create" Click="createFruitButton_Click"/>
+            <Button x:Name="deleteFruitButton" Grid.Column="1" Margin="5" Padding="10" Content="Delete" Click="deleteFruitButton_Click"/>
         </Grid>
     </Grid>
 </Window>

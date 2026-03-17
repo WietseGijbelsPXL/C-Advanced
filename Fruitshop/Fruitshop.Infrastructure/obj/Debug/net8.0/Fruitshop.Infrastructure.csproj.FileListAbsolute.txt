@@ -1,0 +1,16 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\Fruitshop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\Fruitshop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\Fruitshop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\Fruitshop.Infrastructure.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\Fruitshop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\Fruitshop.Infrastructure.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\bin\Debug\net8.0\Fruitshop.Infrastructure.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\bin\Debug\net8.0\Fruitshop.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\bin\Debug\net8.0\Fruitshop.Infrastructure.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\bin\Debug\net8.0\Fruitshop.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\bin\Debug\net8.0\Fruitshop.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\Fruitsho.038B7D8A.Up2Date
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\Fruitshop.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\refint\Fruitshop.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\Fruitshop.Infrastructure.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Infrastructure\obj\Debug\net8.0\ref\Fruitshop.Infrastructure.dll

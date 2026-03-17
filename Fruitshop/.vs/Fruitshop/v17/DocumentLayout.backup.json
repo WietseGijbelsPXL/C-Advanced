@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Fruitshop\\",
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{805EFDD9-D189-428E-96CE-D92E5F67BAFE}|Fruitshop.Presentation\\Fruitshop.Presentation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\fruitshop\\fruitshop.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{805EFDD9-D189-428E-96CE-D92E5F67BAFE}|Fruitshop.Presentation\\Fruitshop.Presentation.csproj|solutionrelative:fruitshop.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CBD31A1E-951B-45E0-ABEE-3E0EA4EA7235}|Fruitshop.Infrastructure\\Fruitshop.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\fruitshop\\fruitshop.infrastructure\\fruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD31A1E-951B-45E0-ABEE-3E0EA4EA7235}|Fruitshop.Infrastructure\\Fruitshop.Infrastructure.csproj|solutionrelative:fruitshop.infrastructure\\fruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{805EFDD9-D189-428E-96CE-D92E5F67BAFE}|Fruitshop.Presentation\\Fruitshop.Presentation.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\fruitshop\\fruitshop.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805EFDD9-D189-428E-96CE-D92E5F67BAFE}|Fruitshop.Presentation\\Fruitshop.Presentation.csproj|solutionrelative:fruitshop.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{805EFDD9-D189-428E-96CE-D92E5F67BAFE}|Fruitshop.Presentation\\Fruitshop.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\fruitshop\\fruitshop.presentation\\editfruitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805EFDD9-D189-428E-96CE-D92E5F67BAFE}|Fruitshop.Presentation\\Fruitshop.Presentation.csproj|solutionrelative:fruitshop.presentation\\editfruitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C8E70F-3AE5-4193-B1B3-02F4AAE31D2A}|Fruitshop.Application\\Fruitshop.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\fruitshop\\fruitshop.application\\fruitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C8E70F-3AE5-4193-B1B3-02F4AAE31D2A}|Fruitshop.Application\\Fruitshop.Application.csproj|solutionrelative:fruitshop.application\\fruitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805EFDD9-D189-428E-96CE-D92E5F67BAFE}|Fruitshop.Presentation\\Fruitshop.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\fruitshop\\fruitshop.presentation\\overviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805EFDD9-D189-428E-96CE-D92E5F67BAFE}|Fruitshop.Presentation\\Fruitshop.Presentation.csproj|solutionrelative:fruitshop.presentation\\overviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509B416-E46C-469F-95AC-306B374CBD1A}|Fruitshop.Domain\\Fruitshop.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\fruitshop\\fruitshop.domain\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509B416-E46C-469F-95AC-306B374CBD1A}|Fruitshop.Domain\\Fruitshop.Domain.csproj|solutionrelative:fruitshop.domain\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,39 +30,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Fruitshop\\Fruitshop.Presentation\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Fruitshop.Presentation\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Fruitshop\\Fruitshop.Presentation\\MainWindow.xaml",
-              "RelativeToolTip": "Fruitshop.Presentation\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-17T09:04:50.538Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Fruitshop\\Fruitshop.Presentation\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Fruitshop.Presentation\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Fruitshop\\Fruitshop.Presentation\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Fruitshop.Presentation\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EditFruitWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Presentation\\EditFruitWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Fruitshop.Presentation\\EditFruitWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Presentation\\EditFruitWindow.xaml.cs",
+              "RelativeToolTip": "Fruitshop.Presentation\\EditFruitWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T09:04:49.893Z",
+              "WhenOpened": "2026-03-17T13:32:53.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OverviewWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Presentation\\OverviewWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Fruitshop.Presentation\\OverviewWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Presentation\\OverviewWindow.xaml.cs",
+              "RelativeToolTip": "Fruitshop.Presentation\\OverviewWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:25:57.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FruitService.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Application\\FruitService.cs",
+              "RelativeDocumentMoniker": "Fruitshop.Application\\FruitService.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Application\\FruitService.cs",
+              "RelativeToolTip": "Fruitshop.Application\\FruitService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:15:33.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Infrastructure\\FruitRepository.cs",
+              "RelativeDocumentMoniker": "Fruitshop.Infrastructure\\FruitRepository.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Infrastructure\\FruitRepository.cs*",
+              "RelativeToolTip": "Fruitshop.Infrastructure\\FruitRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:19:10.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Domain\\Fruit.cs",
+              "RelativeDocumentMoniker": "Fruitshop.Domain\\Fruit.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Domain\\Fruit.cs",
+              "RelativeToolTip": "Fruitshop.Domain\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:16:03.846Z",
               "EditorCaption": ""
             }
           ]
