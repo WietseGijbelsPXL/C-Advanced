@@ -12,7 +12,7 @@ namespace Fruitshop.Infrastructure
 {
     public class FruitRepository
     {
-        const string _ConnectionString = "Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=FruitDb;Data Source=LAPTOP-I21TPKLD\\\\SQLEXPRESS;\r\nTrustServerCertificate=True";
+        const string _ConnectionString = "Server=.\\SQLEXPRESS;Database=FruitDb;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";
 
         public IEnumerable<Fruit> LoadAllFruits()
         {

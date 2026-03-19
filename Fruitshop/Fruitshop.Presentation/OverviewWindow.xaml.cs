@@ -43,7 +43,8 @@ namespace Fruitshop.Presentation
 
         private void deleteFruitButton_Click(object sender, RoutedEventArgs e)
         {
-
+            _service.Delete(((Fruit)fruitListBox.SelectedItem).Id);
+            fruitListBox.ItemsSource = _service.GetAllFruits();
         }
 
         private void fruitListBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)

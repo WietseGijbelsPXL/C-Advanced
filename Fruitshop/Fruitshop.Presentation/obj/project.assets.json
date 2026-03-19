@@ -1539,24 +1539,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Eigenaar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\wiets\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Presentation\\Fruitshop.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\Fruitshop\\Fruitshop.Presentation\\Fruitshop.Presentation.csproj",
       "projectName": "Fruitshop.Presentation",
-      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Presentation\\Fruitshop.Presentation.csproj",
-      "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Presentation\\obj\\",
+      "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\Fruitshop\\Fruitshop.Presentation\\Fruitshop.Presentation.csproj",
+      "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\Fruitshop\\Fruitshop.Presentation\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1570,8 +1565,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Application\\Fruitshop.Application.csproj": {
-              "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\Fruitshop\\Fruitshop.Application\\Fruitshop.Application.csproj"
+            "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\Fruitshop\\Fruitshop.Application\\Fruitshop.Application.csproj": {
+              "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\Fruitshop\\Fruitshop.Application\\Fruitshop.Application.csproj"
             }
           }
         }
@@ -1610,7 +1605,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

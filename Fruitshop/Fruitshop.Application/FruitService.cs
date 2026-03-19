@@ -26,7 +26,7 @@ namespace Fruitshop.Application
 
         public void Delete(int id)
         {
-
+            _fruitRepo.Delete(id);
         }
 
         public void Add(Fruit fruit)

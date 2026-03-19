@@ -16,3 +16,21 @@ C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Appl
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\refint\Fruitshop.Application.dll
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\Fruitshop.Application.pdb
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\ref\Fruitshop.Application.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\bin\Debug\net8.0\Fruitshop.Application.deps.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\bin\Debug\net8.0\Fruitshop.Application.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\bin\Debug\net8.0\Fruitshop.Application.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\bin\Debug\net8.0\Fruitshop.Domain.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\bin\Debug\net8.0\Fruitshop.Infrastructure.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\bin\Debug\net8.0\Fruitshop.Infrastructure.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\bin\Debug\net8.0\Fruitshop.Domain.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\Fruitshop.Application.csproj.AssemblyReference.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\Fruitshop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\Fruitshop.Application.AssemblyInfoInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\Fruitshop.Application.AssemblyInfo.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\Fruitshop.Application.csproj.CoreCompileInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\Fruitshop.Application.sourcelink.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\Fruitsho.C4483351.Up2Date
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\Fruitshop.Application.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\refint\Fruitshop.Application.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\Fruitshop.Application.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\Fruitshop\Fruitshop.Application\obj\Debug\net8.0\ref\Fruitshop.Application.dll
