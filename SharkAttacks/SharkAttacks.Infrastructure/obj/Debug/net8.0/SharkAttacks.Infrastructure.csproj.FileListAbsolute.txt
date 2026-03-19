@@ -1,0 +1,16 @@
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\bin\Debug\net8.0\SharkAttacks.Infrastructure.deps.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\bin\Debug\net8.0\SharkAttacks.Infrastructure.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\bin\Debug\net8.0\SharkAttacks.Infrastructure.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\bin\Debug\net8.0\SharkAttacks.Domain.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\bin\Debug\net8.0\SharkAttacks.Domain.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\SharkAttacks.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\SharkAttacks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\SharkAttacks.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\SharkAttacks.Infrastructure.AssemblyInfo.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\SharkAttacks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\SharkAttacks.Infrastructure.sourcelink.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\SharkAtt.2D92E923.Up2Date
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\SharkAttacks.Infrastructure.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\refint\SharkAttacks.Infrastructure.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\SharkAttacks.Infrastructure.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Infrastructure\obj\Debug\net8.0\ref\SharkAttacks.Infrastructure.dll

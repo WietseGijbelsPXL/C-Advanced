@@ -1,0 +1,12 @@
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\bin\Debug\net8.0\SharkAttacks.Domain.deps.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\bin\Debug\net8.0\SharkAttacks.Domain.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\bin\Debug\net8.0\SharkAttacks.Domain.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\obj\Debug\net8.0\SharkAttacks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\obj\Debug\net8.0\SharkAttacks.Domain.AssemblyInfoInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\obj\Debug\net8.0\SharkAttacks.Domain.AssemblyInfo.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\obj\Debug\net8.0\SharkAttacks.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\obj\Debug\net8.0\SharkAttacks.Domain.sourcelink.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\obj\Debug\net8.0\SharkAttacks.Domain.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\obj\Debug\net8.0\refint\SharkAttacks.Domain.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\obj\Debug\net8.0\SharkAttacks.Domain.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\SharkAttacks\SharkAttacks.Domain\obj\Debug\net8.0\ref\SharkAttacks.Domain.dll

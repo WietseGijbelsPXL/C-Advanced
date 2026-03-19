@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\SharkAttacks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4491EA-5715-4057-9F75-F6070F985CEC}|SharkAttacks.Infrastructure\\SharkAttacks.Infrastructure.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-advanced\\sharkattacks\\sharkattacks.infrastructure\\sharkattacksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4491EA-5715-4057-9F75-F6070F985CEC}|SharkAttacks.Infrastructure\\SharkAttacks.Infrastructure.csproj|solutionrelative:sharkattacks.infrastructure\\sharkattacksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB7915D-D120-4E41-A9DC-516727C8D726}|SharkAttacks.Presentation.ConsoleApp\\SharkAttacks.Presentation.ConsoleApp.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-advanced\\sharkattacks\\sharkattacks.presentation.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB7915D-D120-4E41-A9DC-516727C8D726}|SharkAttacks.Presentation.ConsoleApp\\SharkAttacks.Presentation.ConsoleApp.csproj|solutionrelative:sharkattacks.presentation.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD5E370-F54A-458B-A43D-A519FACFF14C}|SharkAttacks.Application\\SharkAttacks.Application.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-advanced\\sharkattacks\\sharkattacks.application\\sharkattacksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD5E370-F54A-458B-A43D-A519FACFF14C}|SharkAttacks.Application\\SharkAttacks.Application.csproj|solutionrelative:sharkattacks.application\\sharkattacksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharkAttacksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\SharkAttacks\\SharkAttacks.Infrastructure\\SharkAttacksRepository.cs",
+              "RelativeDocumentMoniker": "SharkAttacks.Infrastructure\\SharkAttacksRepository.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\SharkAttacks\\SharkAttacks.Infrastructure\\SharkAttacksRepository.cs*",
+              "RelativeToolTip": "SharkAttacks.Infrastructure\\SharkAttacksRepository.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAlwDsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T15:38:45.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SharkAttacksService.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\SharkAttacks\\SharkAttacks.Application\\SharkAttacksService.cs",
+              "RelativeDocumentMoniker": "SharkAttacks.Application\\SharkAttacksService.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\SharkAttacks\\SharkAttacks.Application\\SharkAttacksService.cs",
+              "RelativeToolTip": "SharkAttacks.Application\\SharkAttacksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T15:38:16.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\SharkAttacks\\SharkAttacks.Presentation.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "SharkAttacks.Presentation.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\SharkAttacks\\SharkAttacks.Presentation.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "SharkAttacks.Presentation.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAlwFMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T15:35:19.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
