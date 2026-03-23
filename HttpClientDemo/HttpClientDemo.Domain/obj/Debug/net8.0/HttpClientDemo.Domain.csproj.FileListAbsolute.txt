@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\bin\Debug\net8.0\HttpClientDemo.Domain.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\bin\Debug\net8.0\HttpClientDemo.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\bin\Debug\net8.0\HttpClientDemo.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\obj\Debug\net8.0\HttpClientDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\obj\Debug\net8.0\HttpClientDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\obj\Debug\net8.0\HttpClientDemo.Domain.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\obj\Debug\net8.0\HttpClientDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\obj\Debug\net8.0\HttpClientDemo.Domain.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\obj\Debug\net8.0\HttpClientDemo.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\obj\Debug\net8.0\refint\HttpClientDemo.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\obj\Debug\net8.0\HttpClientDemo.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\HttpClientDemo\HttpClientDemo.Domain\obj\Debug\net8.0\ref\HttpClientDemo.Domain.dll

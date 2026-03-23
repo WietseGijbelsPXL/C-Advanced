@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HttpClientDemo.Presentation/1.0.0": {
+        "dependencies": {
+          "HttpClientDemo.Application": "1.0.0"
+        },
+        "runtime": {
+          "HttpClientDemo.Presentation.dll": {}
+        }
+      },
+      "HttpClientDemo.Application/1.0.0": {
+        "dependencies": {
+          "HttpClientDemo.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "HttpClientDemo.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HttpClientDemo.Domain/1.0.0": {
+        "runtime": {
+          "HttpClientDemo.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HttpClientDemo.Infrastructure/1.0.0": {
+        "dependencies": {
+          "HttpClientDemo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "HttpClientDemo.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HttpClientDemo.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpClientDemo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpClientDemo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpClientDemo.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
