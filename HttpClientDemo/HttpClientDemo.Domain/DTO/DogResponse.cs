@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace HttpClientDemo.Domain.DTO
 {
-    public class ImageSourceDTO
+    public class DogResponse
     {
-        public string Message { get; set; }
+        public Dictionary<string,List<string>> Message { get; set; }
         public string Status { get; set; }
     }
 }

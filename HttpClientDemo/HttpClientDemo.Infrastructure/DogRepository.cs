@@ -22,7 +22,7 @@ namespace HttpClientDemo.Infrastructure
 
             string content = await httpClient.GetStringAsync("https://dog.ceo/api/breeds/list/all");
 
-            var test = JsonSerializer.Deserialize<DogDTO>(content, new JsonSerializerOptions() { PropertyNameCaseInsensitive = true });
+            var test = JsonSerializer.Deserialize<DogResponse>(content, new JsonSerializerOptions() { PropertyNameCaseInsensitive = true });
 
             foreach (var dog in test.Message)
             {
@@ -41,13 +41,19 @@ namespace HttpClientDemo.Infrastructure
             return dogs;
         }
 
-        public async Task<string> GetRandomImageSource()
+        public async Task<string> GetRandomImageSource(Dog dog)
         {
+            string url = $@"https://dog.ceo/api/breed/{dog.Name}/images/random";
+            if (!string.IsNullOrWhiteSpace(dog.SubBreed))
+            {
+                url = $@"https://dog.ceo/api/breed/{dog.Name}/{dog.SubBreed}/images/random";
+            }
+
             HttpClient httpClient = new HttpClient();
 
-            ImageSourceDTO imageSource = await httpClient.GetFromJsonAsync<ImageSourceDTO>("https://dog.ceo/api/breeds/image/random", new JsonSerializerOptions() { PropertyNameCaseInsensitive = true});
-
-            return imageSource.Message;
+            string imageurl = await httpClient.GetStringAsync(url);
+            ImageSourceResponse imgResponse = JsonSerializer.Deserialize<ImageSourceResponse>(imageurl, new JsonSerializerOptions() { PropertyNameCaseInsensitive = true });
+            return imgResponse.Message;
         }
     }
 }

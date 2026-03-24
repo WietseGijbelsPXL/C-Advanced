@@ -1,5 +1,6 @@
 ﻿using HttpClientDemo.Application;
 using HttpClientDemo.Domain;
+using HttpClientDemo.Domain.Models;
 using System.Net.Http;
 using System.Text;
 using System.Text.Json;
@@ -20,29 +21,42 @@ namespace HttpClientDemo.Presentation
     /// </summary>
     public partial class MainWindow : Window
     {
-        DogService _service;
+        DogService _dogService;
 
         public MainWindow()
         {
             InitializeComponent();
-            _service = new DogService();
+            _dogService = new DogService();
         }
 
         private async void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            await _service.GetAll();
-            await _service.GetRandomImageSouce();
-            breedComboBox.ItemsSource = _service.Dogs;
+            await _dogService.InnitializeAsync();
+            breedComboBox.ItemsSource = _dogService.Dogs;
+            await LoadNextDog();
         }
 
-        private void NextButton_Click(object sender, RoutedEventArgs e)
+        private async Task LoadNextDog()
         {
-
+            string imgurl = await _dogService.GetNextDogImageAsync();
+            dogImage.Source = new BitmapImage(new Uri(imgurl));
         }
 
         private void GuessButton_Click(object sender, RoutedEventArgs e)
         {
+            if (_dogService.Guess((Dog)breedComboBox.SelectedItem))
+            {
+                feedbackTextBlock.Text = "Juist";
+            }
+            else
+            {
+                feedbackTextBlock.Text = $"Fout, juiste ras is {_dogService.CurrentDog}";
+            }
+        }
 
+        private async void NextButton_Click(object sender, RoutedEventArgs e)
+        {
+            await LoadNextDog();
         }
     }
 }
