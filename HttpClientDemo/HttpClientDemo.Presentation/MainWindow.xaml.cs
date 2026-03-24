@@ -20,16 +20,29 @@ namespace HttpClientDemo.Presentation
     /// </summary>
     public partial class MainWindow : Window
     {
+        DogService _service;
+
         public MainWindow()
         {
             InitializeComponent();
+            _service = new DogService();
         }
 
         private async void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            DogService dogService = new DogService();
-            await dogService.GetAll();
-            dogComboBox.ItemsSource = dogService.Dogs;
+            await _service.GetAll();
+            await _service.GetRandomImageSouce();
+            breedComboBox.ItemsSource = _service.Dogs;
+        }
+
+        private void NextButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void GuessButton_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

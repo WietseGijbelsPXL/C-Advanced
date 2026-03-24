@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{E6B3EA45-F8A7-4224-9B7D-1C4B484D189B}|HttpClientDemo.Presentation\\HttpClientDemo.Presentation.csproj|solutionrelative:httpclientdemo.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F592D577-1D34-4855-BD1B-98B3DC7F975F}|HttpClientDemo.Application\\HttpClientDemo.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\httpclientdemo\\httpclientdemo.application\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F592D577-1D34-4855-BD1B-98B3DC7F975F}|HttpClientDemo.Application\\HttpClientDemo.Application.csproj|solutionrelative:httpclientdemo.application\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6B3EA45-F8A7-4224-9B7D-1C4B484D189B}|HttpClientDemo.Presentation\\HttpClientDemo.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\httpclientdemo\\httpclientdemo.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E6B3EA45-F8A7-4224-9B7D-1C4B484D189B}|HttpClientDemo.Presentation\\HttpClientDemo.Presentation.csproj|solutionrelative:httpclientdemo.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -19,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{3F6F13FE-A121-44D0-BEAE-7BDAA97B330A}|HttpClientDemo.Infrastructure\\HttpClientDemo.Infrastructure.csproj|solutionrelative:httpclientdemo.infrastructure\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0C6BF1C-0E24-4A09-B9B8-190E27686FFE}|HttpClientDemo.Domain\\HttpClientDemo.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\httpclientdemo\\httpclientdemo.domain\\dto\\dogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0C6BF1C-0E24-4A09-B9B8-190E27686FFE}|HttpClientDemo.Domain\\HttpClientDemo.Domain.csproj|solutionrelative:httpclientdemo.domain\\dto\\dogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0C6BF1C-0E24-4A09-B9B8-190E27686FFE}|HttpClientDemo.Domain\\HttpClientDemo.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\httpclientdemo\\httpclientdemo.domain\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0C6BF1C-0E24-4A09-B9B8-190E27686FFE}|HttpClientDemo.Domain\\HttpClientDemo.Domain.csproj|solutionrelative:httpclientdemo.domain\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F592D577-1D34-4855-BD1B-98B3DC7F975F}|HttpClientDemo.Application\\HttpClientDemo.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\httpclientdemo\\httpclientdemo.application\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F592D577-1D34-4855-BD1B-98B3DC7F975F}|HttpClientDemo.Application\\HttpClientDemo.Application.csproj|solutionrelative:httpclientdemo.application\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C6BF1C-0E24-4A09-B9B8-190E27686FFE}|HttpClientDemo.Domain\\HttpClientDemo.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\httpclientdemo\\httpclientdemo.domain\\dto\\dogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C6BF1C-0E24-4A09-B9B8-190E27686FFE}|HttpClientDemo.Domain\\HttpClientDemo.Domain.csproj|solutionrelative:httpclientdemo.domain\\dto\\dogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,33 +46,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DogRepository.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\HttpClientDemo\\HttpClientDemo.Infrastructure\\DogRepository.cs",
               "RelativeDocumentMoniker": "HttpClientDemo.Infrastructure\\DogRepository.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\HttpClientDemo\\HttpClientDemo.Infrastructure\\DogRepository.cs",
               "RelativeToolTip": "HttpClientDemo.Infrastructure\\DogRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T15:15:44.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DogService.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\HttpClientDemo\\HttpClientDemo.Application\\DogService.cs",
               "RelativeDocumentMoniker": "HttpClientDemo.Application\\DogService.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\HttpClientDemo\\HttpClientDemo.Application\\DogService.cs*",
-              "RelativeToolTip": "HttpClientDemo.Application\\DogService.cs*",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\HttpClientDemo\\HttpClientDemo.Application\\DogService.cs",
+              "RelativeToolTip": "HttpClientDemo.Application\\DogService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T15:15:33.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T15:15:33.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DogDTO.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\HttpClientDemo\\HttpClientDemo.Domain\\DTO\\DogDTO.cs",
               "RelativeDocumentMoniker": "HttpClientDemo.Domain\\DTO\\DogDTO.cs",
@@ -80,25 +79,23 @@
               "RelativeToolTip": "HttpClientDemo.Domain\\DTO\\DogDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T15:07:29.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T15:07:29.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\HttpClientDemo\\HttpClientDemo.Domain\\Models\\Dog.cs",
               "RelativeDocumentMoniker": "HttpClientDemo.Domain\\Models\\Dog.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\HttpClientDemo\\HttpClientDemo.Domain\\Models\\Dog.cs",
               "RelativeToolTip": "HttpClientDemo.Domain\\Models\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T14:50:42.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T14:50:42.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\HttpClientDemo\\HttpClientDemo.Presentation\\MainWindow.xaml",
               "RelativeDocumentMoniker": "HttpClientDemo.Presentation\\MainWindow.xaml",
@@ -116,7 +113,7 @@
               "RelativeDocumentMoniker": "HttpClientDemo.Presentation\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\HttpClientDemo\\HttpClientDemo.Presentation\\MainWindow.xaml.cs*",
               "RelativeToolTip": "HttpClientDemo.Presentation\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T14:49:41.562Z",
               "EditorCaption": ""

@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using System.Net.Http.Json;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
@@ -38,6 +39,15 @@ namespace HttpClientDemo.Infrastructure
                 }
             }
             return dogs;
+        }
+
+        public async Task<string> GetRandomImageSource()
+        {
+            HttpClient httpClient = new HttpClient();
+
+            ImageSourceDTO imageSource = await httpClient.GetFromJsonAsync<ImageSourceDTO>("https://dog.ceo/api/breeds/image/random", new JsonSerializerOptions() { PropertyNameCaseInsensitive = true});
+
+            return imageSource.Message;
         }
     }
 }
