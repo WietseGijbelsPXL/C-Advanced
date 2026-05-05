@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\linq_demo\\linq_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|solutionrelative:linq_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\linq_demo\\linq_demo\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|solutionrelative:linq_demo\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\linq_demo\\linq_demo\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|solutionrelative:linq_demo\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\linq_demo\\linq_demo\\models\\violin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|solutionrelative:linq_demo\\models\\violin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\linq_demo\\linq_demo\\models\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|solutionrelative:linq_demo\\models\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\linq_demo\\linq_demo\\models\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|solutionrelative:linq_demo\\models\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\linq_demo\\linq_demo\\models\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F816458-6597-4C86-8775-4243EA536FF5}|LINQ_Demo\\LINQ_Demo.csproj|solutionrelative:linq_demo\\models\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "LINQ_Demo\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Sale.cs",
+              "RelativeToolTip": "LINQ_Demo\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:01:18.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Violin.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Violin.cs",
+              "RelativeDocumentMoniker": "LINQ_Demo\\Models\\Violin.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Violin.cs",
+              "RelativeToolTip": "LINQ_Demo\\Models\\Violin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:00:18.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Guitar.cs",
+              "RelativeDocumentMoniker": "LINQ_Demo\\Models\\Guitar.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Guitar.cs",
+              "RelativeToolTip": "LINQ_Demo\\Models\\Guitar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:59:44.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Piano.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Piano.cs",
+              "RelativeDocumentMoniker": "LINQ_Demo\\Models\\Piano.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Piano.cs",
+              "RelativeToolTip": "LINQ_Demo\\Models\\Piano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:59:11.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "LINQ_Demo\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Store.cs",
+              "RelativeToolTip": "LINQ_Demo\\Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:58:00.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instrument.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Instrument.cs",
+              "RelativeDocumentMoniker": "LINQ_Demo\\Models\\Instrument.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Models\\Instrument.cs",
+              "RelativeToolTip": "LINQ_Demo\\Models\\Instrument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:55:44.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\LINQ_Demo\\LINQ_Demo\\Program.cs",
+              "RelativeToolTip": "LINQ_Demo\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAD4v1MAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T13:45:21.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

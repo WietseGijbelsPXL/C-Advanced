@@ -1,0 +1,15 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\bin\Debug\net8.0\LINQ_Demo.exe
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\bin\Debug\net8.0\LINQ_Demo.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\bin\Debug\net8.0\LINQ_Demo.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\bin\Debug\net8.0\LINQ_Demo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\bin\Debug\net8.0\LINQ_Demo.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\obj\Debug\net8.0\refint\LINQ_Demo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\obj\Debug\net8.0\LINQ_Demo.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\LINQ_Demo\LINQ_Demo\obj\Debug\net8.0\ref\LINQ_Demo.dll

@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED0DFFE-24DE-41CC-905D-5F209571ABBB}|EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.infrastructure\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED0DFFE-24DE-41CC-905D-5F209571ABBB}|EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj|solutionrelative:employeetrainingmanager.infrastructure\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0397236A-CA65-4A3E-AC43-0E89CCCC0CEF}|EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.application\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0397236A-CA65-4A3E-AC43-0E89CCCC0CEF}|EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj|solutionrelative:employeetrainingmanager.application\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0397236A-CA65-4A3E-AC43-0E89CCCC0CEF}|EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.application\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0397236A-CA65-4A3E-AC43-0E89CCCC0CEF}|EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj|solutionrelative:employeetrainingmanager.application\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED0DFFE-24DE-41CC-905D-5F209571ABBB}|EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.infrastructure\\trainingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED0DFFE-24DE-41CC-905D-5F209571ABBB}|EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj|solutionrelative:employeetrainingmanager.infrastructure\\trainingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0397236A-CA65-4A3E-AC43-0E89CCCC0CEF}|EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.application\\trainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0397236A-CA65-4A3E-AC43-0E89CCCC0CEF}|EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj|solutionrelative:employeetrainingmanager.application\\trainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED0DFFE-24DE-41CC-905D-5F209571ABBB}|EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.infrastructure\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED0DFFE-24DE-41CC-905D-5F209571ABBB}|EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj|solutionrelative:employeetrainingmanager.infrastructure\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD07EF1-5582-41FB-897D-7F258AFD61BF}|EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.domain\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD07EF1-5582-41FB-897D-7F258AFD61BF}|EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj|solutionrelative:employeetrainingmanager.domain\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EDAA50-2FF1-42F7-9BBE-29518514FE4B}|EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EDAA50-2FF1-42F7-9BBE-29518514FE4B}|EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj|solutionrelative:employeetrainingmanager.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD07EF1-5582-41FB-897D-7F258AFD61BF}|EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.domain\\technicaltraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD07EF1-5582-41FB-897D-7F258AFD61BF}|EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj|solutionrelative:employeetrainingmanager.domain\\technicaltraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED0DFFE-24DE-41CC-905D-5F209571ABBB}|EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.infrastructure\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED0DFFE-24DE-41CC-905D-5F209571ABBB}|EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj|solutionrelative:employeetrainingmanager.infrastructure\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD07EF1-5582-41FB-897D-7F258AFD61BF}|EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.domain\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD07EF1-5582-41FB-897D-7F258AFD61BF}|EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj|solutionrelative:employeetrainingmanager.domain\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD07EF1-5582-41FB-897D-7F258AFD61BF}|EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD07EF1-5582-41FB-897D-7F258AFD61BF}|EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj|solutionrelative:employeetrainingmanager.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD07EF1-5582-41FB-897D-7F258AFD61BF}|EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.domain\\safetytrainig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD07EF1-5582-41FB-897D-7F258AFD61BF}|EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj|solutionrelative:employeetrainingmanager.domain\\safetytrainig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EDAA50-2FF1-42F7-9BBE-29518514FE4B}|EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\employeetrainingmanager\\employeetrainingmanager.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38EDAA50-2FF1-42F7-9BBE-29518514FE4B}|EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj|solutionrelative:employeetrainingmanager.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Infrastructure\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EnrollmentRepository.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Infrastructure\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:23:45.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainingService.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\TrainingService.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Application\\TrainingService.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\TrainingService.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Application\\TrainingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:17:41.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Application\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EnrollmentService.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Application\\EnrollmentService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:17:31.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Application\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Application\\EmployeeService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:17:23.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\TrainingRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Infrastructure\\TrainingRepository.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\TrainingRepository.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Infrastructure\\TrainingRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswEkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:14:57.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Infrastructure\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Infrastructure\\EmployeeRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswCEAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:49:48.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Infrastructure\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\DbConnectionFactory.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Infrastructure\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:49:13.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\Enrollment.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Domain\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\Enrollment.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Domain\\Enrollment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:27:59.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\Employee.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Domain\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:26:58.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SafetyTrainig.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\SafetyTrainig.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Domain\\SafetyTrainig.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\SafetyTrainig.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Domain\\SafetyTrainig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:24:55.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TechnicalTraining.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\TechnicalTraining.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Domain\\TechnicalTraining.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\TechnicalTraining.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Domain\\TechnicalTraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:20:29.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\Training.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Domain\\Training.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\Training.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Domain\\Training.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:16:29.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Presentation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\MainWindow.xaml",
+              "RelativeToolTip": "EmployeeTrainingManager.Presentation\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T11:44:10.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeeTrainingManager.Presentation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EmployeeTrainingManager.Presentation\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:44:04.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

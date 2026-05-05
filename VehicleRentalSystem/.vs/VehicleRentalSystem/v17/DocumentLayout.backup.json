@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56A4417B-5DF8-4CC3-8A66-0A8EB23ADCB4}|VehicleRentalSystem.Infrastructure\\VehicleRentalSystem.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\vehiclerentalsystem\\vehiclerentalsystem.infrastructure\\repositories\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A4417B-5DF8-4CC3-8A66-0A8EB23ADCB4}|VehicleRentalSystem.Infrastructure\\VehicleRentalSystem.Infrastructure.csproj|solutionrelative:vehiclerentalsystem.infrastructure\\repositories\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D80E402-C0F8-431C-BC40-8455C366017B}|VehicleRentalSystem.Application\\VehicleRentalSystem.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\vehiclerentalsystem\\vehiclerentalsystem.application\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D80E402-C0F8-431C-BC40-8455C366017B}|VehicleRentalSystem.Application\\VehicleRentalSystem.Application.csproj|solutionrelative:vehiclerentalsystem.application\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519FD27-01BD-4D56-AB05-8EB997CAA1C3}|VehicleRentalSystem.Domain\\VehicleRentalSystem.Domain.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\vehiclerentalsystem\\vehiclerentalsystem.domain\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519FD27-01BD-4D56-AB05-8EB997CAA1C3}|VehicleRentalSystem.Domain\\VehicleRentalSystem.Domain.csproj|solutionrelative:vehiclerentalsystem.domain\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A4417B-5DF8-4CC3-8A66-0A8EB23ADCB4}|VehicleRentalSystem.Infrastructure\\VehicleRentalSystem.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\vehiclerentalsystem\\vehiclerentalsystem.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A4417B-5DF8-4CC3-8A66-0A8EB23ADCB4}|VehicleRentalSystem.Infrastructure\\VehicleRentalSystem.Infrastructure.csproj|solutionrelative:vehiclerentalsystem.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D80E402-C0F8-431C-BC40-8455C366017B}|VehicleRentalSystem.Application\\VehicleRentalSystem.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\vehiclerentalsystem\\vehiclerentalsystem.application\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D80E402-C0F8-431C-BC40-8455C366017B}|VehicleRentalSystem.Application\\VehicleRentalSystem.Application.csproj|solutionrelative:vehiclerentalsystem.application\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D80E402-C0F8-431C-BC40-8455C366017B}|VehicleRentalSystem.Application\\VehicleRentalSystem.Application.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\vehiclerentalsystem\\vehiclerentalsystem.application\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D80E402-C0F8-431C-BC40-8455C366017B}|VehicleRentalSystem.Application\\VehicleRentalSystem.Application.csproj|solutionrelative:vehiclerentalsystem.application\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A4417B-5DF8-4CC3-8A66-0A8EB23ADCB4}|VehicleRentalSystem.Infrastructure\\VehicleRentalSystem.Infrastructure.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\vehiclerentalsystem\\vehiclerentalsystem.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A4417B-5DF8-4CC3-8A66-0A8EB23ADCB4}|VehicleRentalSystem.Infrastructure\\VehicleRentalSystem.Infrastructure.csproj|solutionrelative:vehiclerentalsystem.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73721876-DED6-4D45-9DE3-F7CEC0F08109}|VehicleRentalSystem.Presentation\\VehicleRentalSystem.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\vehiclerentalsystem\\vehiclerentalsystem.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73721876-DED6-4D45-9DE3-F7CEC0F08109}|VehicleRentalSystem.Presentation\\VehicleRentalSystem.Presentation.csproj|solutionrelative:vehiclerentalsystem.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73721876-DED6-4D45-9DE3-F7CEC0F08109}|VehicleRentalSystem.Presentation\\VehicleRentalSystem.Presentation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\vehiclerentalsystem\\vehiclerentalsystem.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73721876-DED6-4D45-9DE3-F7CEC0F08109}|VehicleRentalSystem.Presentation\\VehicleRentalSystem.Presentation.csproj|solutionrelative:vehiclerentalsystem.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\Rental.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem.Domain\\Rental.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\Rental.cs",
+              "RelativeToolTip": "VehicleRentalSystem.Domain\\Rental.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:29:02.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Presentation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VehicleRentalSystem.Presentation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Presentation\\MainWindow.xaml",
+              "RelativeToolTip": "VehicleRentalSystem.Presentation\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-28T12:51:48.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Application\\CustomerService.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem.Application\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Application\\CustomerService.cs",
+              "RelativeToolTip": "VehicleRentalSystem.Application\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:13:39.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Application\\RentalService.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem.Application\\RentalService.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Application\\RentalService.cs",
+              "RelativeToolTip": "VehicleRentalSystem.Application\\RentalService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:58:44.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Infrastructure\\Repositories\\RentalRepository.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem.Infrastructure\\Repositories\\RentalRepository.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Infrastructure\\Repositories\\RentalRepository.cs",
+              "RelativeToolTip": "VehicleRentalSystem.Infrastructure\\Repositories\\RentalRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:13:54.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "VehicleRentalSystem.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAvwDwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:06:42.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "VehicleRentalSystem.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwGcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:17:37.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Application\\VehicleService.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem.Application\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Application\\VehicleService.cs",
+              "RelativeToolTip": "VehicleRentalSystem.Application\\VehicleService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:48:31.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Presentation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VehicleRentalSystem.Presentation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Presentation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "VehicleRentalSystem.Presentation\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:45:57.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
