@@ -1,0 +1,24 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\bin\Debug\net8.0\VehicleRentalSystem.Domain.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\bin\Debug\net8.0\VehicleRentalSystem.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\bin\Debug\net8.0\VehicleRentalSystem.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\refint\VehicleRentalSystem.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\ref\VehicleRentalSystem.Domain.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\bin\Debug\net8.0\VehicleRentalSystem.Domain.deps.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\bin\Debug\net8.0\VehicleRentalSystem.Domain.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\bin\Debug\net8.0\VehicleRentalSystem.Domain.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.AssemblyInfo.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.sourcelink.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\refint\VehicleRentalSystem.Domain.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\VehicleRentalSystem.Domain.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Advanced\VehicleRentalSystem\VehicleRentalSystem.Domain\obj\Debug\net8.0\ref\VehicleRentalSystem.Domain.dll

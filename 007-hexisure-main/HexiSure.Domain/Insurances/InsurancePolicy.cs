@@ -18,17 +18,48 @@ namespace HexiSure.Domain.Insurances
         public int ClientNumber { get; set; }
         public int PolicyNumber { get; set; }
 
-        public void AddCoverage(Coverage coverage)
+        protected InsurancePolicy(double basePremium, int policyNumber)
         {
-            if (!Coverages.Contains(coverage))
+            BasePremium = basePremium;
+            PolicyNumber = policyNumber;
+        }
+
+        public virtual void AddCoverage(Coverage coverage)
+        {
+            if (!Coverages.Any( c => c.Name == coverage.Name))
             {
-                Coverages.Add(coverage);
+                _coverages.Add(coverage);
             }
         }
 
-        public void RemoveCoverage(Coverage coverage)
+        public virtual void RemoveCoverage(Coverage coverage)
         {
-            Coverages.Remove(coverage);
+            _coverages.Remove(coverage);
+        }
+
+        public virtual void AddCivilLiability()
+        {
+            _coverages.Add(new Coverage(10, "Burgelijke aansprakelijkheid"));
+        }
+
+        public virtual void AddLegalAid()
+        {
+            _coverages.Add(new Coverage(20, "Rechtsbijstand"));
+        }
+
+        public virtual double CalculateTotalPremiumPerMonth()
+        {
+            return Coverages.Sum(c => c.CostPerMonth*BasePremium);
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            foreach(Coverage coverage in Coverages)
+            {
+                sb.Append($"{coverage.ToString()} ");
+            }
+            return sb.ToString();
         }
     }
 }
