@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\File IO Demo\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\File IO Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4B2ADAF-16CB-448C-AC16-D22D0FDFA40C}|File IO Demo\\File IO Demo.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# advanced\\file io demo\\file io demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4B2ADAF-16CB-448C-AC16-D22D0FDFA40C}|File IO Demo\\File IO Demo.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-advanced\\file io demo\\file io demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4B2ADAF-16CB-448C-AC16-D22D0FDFA40C}|File IO Demo\\File IO Demo.csproj|solutionrelative:file io demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,21 +18,21 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\File IO Demo\\File IO Demo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\File IO Demo\\File IO Demo\\Program.cs",
               "RelativeDocumentMoniker": "File IO Demo\\Program.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\File IO Demo\\File IO Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\File IO Demo\\File IO Demo\\Program.cs",
               "RelativeToolTip": "File IO Demo\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwCwAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T14:46:36.378Z",
               "EditorCaption": ""

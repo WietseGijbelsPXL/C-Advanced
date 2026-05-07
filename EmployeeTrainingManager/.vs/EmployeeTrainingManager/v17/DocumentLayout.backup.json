@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "EmployeeTrainingManager.Infrastructure\\EnrollmentRepository.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EnrollmentRepository.cs",
               "RelativeToolTip": "EmployeeTrainingManager.Infrastructure\\EnrollmentRepository.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAvwEoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T13:23:45.109Z",
               "EditorCaption": ""
@@ -99,8 +99,7 @@
               "RelativeToolTip": "EmployeeTrainingManager.Application\\TrainingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T13:17:41.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T13:17:41.254Z"
             },
             {
               "$type": "Document",
@@ -112,8 +111,7 @@
               "RelativeToolTip": "EmployeeTrainingManager.Application\\EnrollmentService.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAvwCQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T13:17:31.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T13:17:31.675Z"
             },
             {
               "$type": "Document",
@@ -125,8 +123,7 @@
               "RelativeToolTip": "EmployeeTrainingManager.Application\\EmployeeService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T13:17:23.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T13:17:23.374Z"
             },
             {
               "$type": "Document",
@@ -138,8 +135,7 @@
               "RelativeToolTip": "EmployeeTrainingManager.Infrastructure\\TrainingRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAswEkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:14:57.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T13:14:57.14Z"
             },
             {
               "$type": "Document",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "EmployeeTrainingManager.Infrastructure\\EmployeeRepository.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAswCEAAACNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:49:48.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:49:48.543Z"
             },
             {
               "$type": "Document",

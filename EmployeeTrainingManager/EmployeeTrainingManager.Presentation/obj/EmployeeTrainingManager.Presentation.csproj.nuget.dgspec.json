@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj": {}
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj": {
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj",
+        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj",
         "projectName": "EmployeeTrainingManager.Application",
-        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj",
-        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\obj\\",
+        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj",
+        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj"
+              "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj"
               }
             }
           }
@@ -69,25 +65,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj": {
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj",
         "projectName": "EmployeeTrainingManager.Domain",
-        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj",
-        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\obj\\",
+        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,25 +126,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj": {
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj",
         "projectName": "EmployeeTrainingManager.Infrastructure",
-        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\EmployeeTrainingManager.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,8 +154,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj": {
-                "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj"
+              "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj": {
+                "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Domain\\EmployeeTrainingManager.Domain.csproj"
               }
             }
           }
@@ -213,25 +201,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj": {
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj",
         "projectName": "EmployeeTrainingManager.Presentation",
-        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj",
-        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\obj\\",
+        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\EmployeeTrainingManager.Presentation.csproj",
+        "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Presentation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -245,8 +229,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj": {
-                "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj"
+              "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj": {
+                "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\EmployeeTrainingManager\\EmployeeTrainingManager.Application\\EmployeeTrainingManager.Application.csproj"
               }
             }
           }
@@ -285,7 +269,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

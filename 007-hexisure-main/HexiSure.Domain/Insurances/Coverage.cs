@@ -25,7 +25,7 @@ namespace HexiSure.Domain.Insurances
             Name = name;
         }
 
-        public Coverage(double baseCostPerMonth, IInsurable? insuredObject, string name): this(baseCostPerMonth, name)
+        public Coverage(double baseCostPerMonth, string name, IInsurable? insuredObject) : this(baseCostPerMonth, name)
         {
             InsuredObject = insuredObject;
         }
