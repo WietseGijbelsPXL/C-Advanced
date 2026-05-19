@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\bin\Debug\net8.0\DevShelf.Domain.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\bin\Debug\net8.0\DevShelf.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\bin\Debug\net8.0\DevShelf.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\obj\Debug\net8.0\DevShelf.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\obj\Debug\net8.0\DevShelf.Domain.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\obj\Debug\net8.0\DevShelf.Domain.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\obj\Debug\net8.0\DevShelf.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\obj\Debug\net8.0\DevShelf.Domain.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\obj\Debug\net8.0\DevShelf.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\obj\Debug\net8.0\refint\DevShelf.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\obj\Debug\net8.0\DevShelf.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Domain\obj\Debug\net8.0\ref\DevShelf.Domain.dll

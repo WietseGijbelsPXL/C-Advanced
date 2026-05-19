@@ -1,0 +1,16 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\bin\Debug\net8.0\DevShelf.Infrastructure.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\bin\Debug\net8.0\DevShelf.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\bin\Debug\net8.0\DevShelf.Infrastructure.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\bin\Debug\net8.0\DevShelf.Domain.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\bin\Debug\net8.0\DevShelf.Domain.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\DevShelf.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\DevShelf.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\DevShelf.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\DevShelf.Infrastructure.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\DevShelf.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\DevShelf.Infrastructure.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\DevShelf.2221BA3A.Up2Date
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\DevShelf.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\refint\DevShelf.Infrastructure.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\DevShelf.Infrastructure.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Advanced\DevShelf\DevShelf.Infrastructure\obj\Debug\net8.0\ref\DevShelf.Infrastructure.dll
