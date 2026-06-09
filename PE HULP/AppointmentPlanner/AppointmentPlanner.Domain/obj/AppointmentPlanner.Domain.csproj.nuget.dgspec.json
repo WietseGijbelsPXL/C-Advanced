@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj": {}
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj": {
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj",
         "projectName": "AppointmentPlanner.Domain",
-        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj",
+        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\AppointmentPlanner\\AppointmentPlanner.Domain\\AppointmentPlanner.Domain.csproj",
         "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Domain\\obj\\",
+        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\AppointmentPlanner\\AppointmentPlanner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

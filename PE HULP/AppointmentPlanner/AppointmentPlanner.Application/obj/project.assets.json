@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj",
+      "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj",
       "projectName": "AppointmentPlanner.Application",
-      "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj",
+      "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\AppointmentPlanner\\AppointmentPlanner.Application\\AppointmentPlanner.Application.csproj",
       "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Application\\obj\\",
+      "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\AppointmentPlanner\\AppointmentPlanner.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj"
+            "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\AppointmentPlanner\\AppointmentPlanner.Infrastructure\\AppointmentPlanner.Infrastructure.csproj"
             }
           }
         }
@@ -108,7 +108,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

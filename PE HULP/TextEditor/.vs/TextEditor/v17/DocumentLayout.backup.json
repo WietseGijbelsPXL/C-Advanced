@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TextEditor\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\TextEditor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{801AFFB0-D8DC-4110-810D-00FB2454B177}|TextEditor\\TextEditor.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-advanced\\texteditor\\texteditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{801AFFB0-D8DC-4110-810D-00FB2454B177}|TextEditor\\TextEditor.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-advanced\\pe hulp\\texteditor\\texteditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{801AFFB0-D8DC-4110-810D-00FB2454B177}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{801AFFB0-D8DC-4110-810D-00FB2454B177}|TextEditor\\TextEditor.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-advanced\\texteditor\\texteditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{801AFFB0-D8DC-4110-810D-00FB2454B177}|TextEditor\\TextEditor.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-advanced\\pe hulp\\texteditor\\texteditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{801AFFB0-D8DC-4110-810D-00FB2454B177}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TextEditor\\TextEditor\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\TextEditor\\TextEditor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TextEditor\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TextEditor\\TextEditor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\TextEditor\\TextEditor\\MainWindow.xaml",
               "RelativeToolTip": "TextEditor\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-02T16:09:12.296Z"
@@ -43,11 +43,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TextEditor\\TextEditor\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\TextEditor\\TextEditor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TextEditor\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\TextEditor\\TextEditor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\TextEditor\\TextEditor\\MainWindow.xaml.cs",
               "RelativeToolTip": "TextEditor\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T16:09:08.166Z",
               "EditorCaption": ""

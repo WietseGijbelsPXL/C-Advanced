@@ -1,4 +1,6 @@
-﻿using HexiSure.Domain.Insurances;
+﻿using Dapper;
+using HexiSure.Domain.Insurances;
+using Microsoft.Data.SqlClient;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -24,22 +26,41 @@ namespace HexiSure.Infrastructure.Data
             // Vul onderstaande query aan met SqlParameters en voer ze uit.
             
             string query = @"INSERT INTO Insurances (PolicyNumber, CostPerMonth, BasePremium, ClientNumber, Description)
-                                VALUES (... TODO ...)";
+                                VALUES (@PolicyNumber, @CostPerMonth, @BasePremium, @ClientNumber, @Description)";
+
+            using (SqlConnection con = new SqlConnection(_connectionstring))
+            {
+                con.Execute(query,new
+                {
+                    PolicyNumber = insurance.PolicyNumber,
+                    CostPerMonth = insurance.CalculateTotalPremiumPerMonth(),
+                    BasePremium = insurance.BasePremium,
+                    ClientNumber = insurance.ClientNumber,
+                    Description = insurance.ToString(),
+                });
+            }
         }
 
         public IEnumerable<InsurancePolicy> GetAll()
         {
-            throw new NotImplementedException();
+            using (SqlConnection con = new SqlConnection(_connectionstring))
+            {
+                return con.Query<InsurancePolicy>("SELECT * FROM Insurances");
+            }
         }
 
         private int GetTotalInsurances()
         {
-            throw new NotImplementedException();
+            using (SqlConnection con = new SqlConnection(_connectionstring))
+            {
+                return con.ExecuteScalar<int>("select count() * from insurances");
+            }
         }
 
-        public string GetNextPolicyNumber()
+        public int GetNextPolicyNumber()
         {
-            throw new NotImplementedException();
+            return int.Parse($"{DateTime.Now.Year}{DateTime.Now.Month}{DateTime.Now.Day}{GetTotalInsurances().ToString("0000")}");
+            
         }
     }
 }

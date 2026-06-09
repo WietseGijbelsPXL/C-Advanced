@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\VehicleRentalSystem.Domain.csproj": {}
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\VehicleRentalSystem.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\VehicleRentalSystem.Domain.csproj": {
+    "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\VehicleRentalSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\VehicleRentalSystem.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\VehicleRentalSystem.Domain.csproj",
         "projectName": "VehicleRentalSystem.Domain",
-        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\VehicleRentalSystem.Domain.csproj",
+        "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\VehicleRentalSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\obj\\",
+        "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\VehicleRentalSystem\\VehicleRentalSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

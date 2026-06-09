@@ -1,4 +1,8 @@
-﻿using System.Text;
+﻿using HexiSure.Application.Services;
+using HexiSure.Domain.Insurables;
+using HexiSure.Domain.Insurances;
+using HexiSure.Infrastructure.Data;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -20,20 +24,22 @@ namespace HexiSure.WPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        InsuranceService _service;
+        InsuranceRepository _repository;
+
         public MainWindow()
         {
             InitializeComponent();
-            // TODO:
-            //      - verwerk alle gemeentes uit het csv-bestand van municipalities
-            //      - sorteer alle gemeentes op alfabetische volgorde (naam) en vervolgens op numerieke (postcode)
-            //      - plaats alle gemeentes in de ComboBox
 
-            // TODO stel de ConnectionString in in InsuranceData
+            string connectionString = "Server=.\\SQLEXPRESS;Database=HexiSureDb;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";
+            _repository = new InsuranceRepository(connectionString);
+            _service = new InsuranceService(_repository);
+            MunicipalityComboBox.ItemsSource = _service.GetMunicipalities().OrderBy(m => m.Name).OrderBy(m => m.Code);
         }
 
         private void RefreshButton_Click(object sender, RoutedEventArgs e)
         {
-            // TODO: haal alle verzekering op van het hoofdkantoor (de database) en zet ze in het DataGrid
+            PoliciesDataGrid.ItemsSource = _service.GetAllInsurances();
         }
 
         private void ClearButton_Click(object sender, RoutedEventArgs e)
@@ -63,7 +69,8 @@ namespace HexiSure.WPF
             TagTextBlock.Text = message;
             DispatcherTimer dispatcherTimer = new DispatcherTimer();
             dispatcherTimer.Interval = TimeSpan.FromSeconds(2);
-            dispatcherTimer.Tick += (sender, e) => {
+            dispatcherTimer.Tick += (sender, e) =>
+            {
                 TagBorder.Tag = "Hidden"; dispatcherTimer.Stop();
             };
             dispatcherTimer.Start();
@@ -72,25 +79,38 @@ namespace HexiSure.WPF
         private void CreateHomePolicyButton_Click(object sender, RoutedEventArgs e)
         {
             // TODO: controleer of de gegevens geldig zijn
-            if (true // TODO
-                )
+            bool basePremiumBool = double.TryParse(BasePremiumTextBox.Text, out double basePremium);
+            bool marketValueBool = double.TryParse(MarketValueTextBox.Text, out double marketValue);
+            bool livingAreaBool = double.TryParse(LivingAreaTextBox.Text, out double livingArea);
+            bool datePicker = BuildDatePicker.SelectedDate != null;
+            bool municipality = MunicipalityComboBox.SelectedValue != null;
+            bool type = TypeComboBox.SelectedValue != null;
+            bool adres = string.IsNullOrWhiteSpace(AddressTextBox.Text);
+            bool theftcheck = AddTheft10KCheckBox.IsChecked == AddTheft30KCheckBox.IsChecked == true;
+            if (basePremiumBool && marketValueBool && livingAreaBool && datePicker && municipality && type && theftcheck)
             {
-                // TODO:
-                //      - maak een Residence object aan op basis van de invulvelden
-                //      - voeg het Residence object toe aan de Database met behulp van InsertNewInsurance()
-                
-                //ShowToast("✓ Nieuwe polis toegevoegd " + homeInsurance.ToString());
-                //ClearForm();
+                Residence residence = new Residence(AddressTextBox.Text, (DateTime)BuildDatePicker.SelectedDate, livingArea, marketValue, (Municipality)MunicipalityComboBox.SelectedValue, TypeComboBox.SelectedValue.ToString());
+                HomeInsurance homeInsurance = new HomeInsurance(basePremium, _repository.GetNextPolicyNumber(), residence);
+
+                if (AddFireCheckBox.IsChecked == true) homeInsurance.AddHomeFireInsurance();
+                if (AddTheft10KCheckBox.IsChecked == true) homeInsurance.AddTheftInsurance10K();
+                if (AddTheft30KCheckBox.IsChecked == true) homeInsurance.AddTheftInsurance30K();
+                if (AddLegalAidCheckBox.IsChecked == true) homeInsurance.AddLegalAid();
+
+                _service.AddInsurance(homeInsurance);
+
+                ShowToast("✓ Nieuwe polis toegevoegd " + homeInsurance.ToString());
+                ClearForm();
             }
             else
             {
-                //ShowToast("⚠ Ongeldige gegevens");
+                ShowToast("⚠ Ongeldige gegevens");
             }
         }
 
         private void MunicipalityFilterTextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-            // TODO: filter en sorteer alle gemeentes en plaats ze in de ComboBox
+            MunicipalityComboBox.ItemsSource = _service.GetMunicipalities().OrderBy(m => m.Name).OrderBy(m => m.Code).Where(m => m.Name.Contains(MunicipalityFilterTextBox.Text));
         }
 
     }

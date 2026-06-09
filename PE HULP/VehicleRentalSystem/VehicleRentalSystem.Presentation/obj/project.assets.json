@@ -1293,11 +1293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Presentation\\VehicleRentalSystem.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\VehicleRentalSystem\\VehicleRentalSystem.Presentation\\VehicleRentalSystem.Presentation.csproj",
       "projectName": "VehicleRentalSystem.Presentation",
-      "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Presentation\\VehicleRentalSystem.Presentation.csproj",
+      "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\VehicleRentalSystem\\VehicleRentalSystem.Presentation\\VehicleRentalSystem.Presentation.csproj",
       "packagesPath": "C:\\Users\\wiets\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Presentation\\obj\\",
+      "outputPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\VehicleRentalSystem\\VehicleRentalSystem.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wiets\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1314,8 +1314,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Application\\VehicleRentalSystem.Application.csproj": {
-              "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\VehicleRentalSystem\\VehicleRentalSystem.Application\\VehicleRentalSystem.Application.csproj"
+            "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\VehicleRentalSystem\\VehicleRentalSystem.Application\\VehicleRentalSystem.Application.csproj": {
+              "projectPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Advanced\\PE HULP\\VehicleRentalSystem\\VehicleRentalSystem.Application\\VehicleRentalSystem.Application.csproj"
             }
           }
         }
@@ -1354,7 +1354,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
