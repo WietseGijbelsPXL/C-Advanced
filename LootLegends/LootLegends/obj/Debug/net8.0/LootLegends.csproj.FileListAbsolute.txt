@@ -1,0 +1,15 @@
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\bin\Debug\net8.0\LootLegends.exe
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\bin\Debug\net8.0\LootLegends.deps.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\bin\Debug\net8.0\LootLegends.runtimeconfig.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\bin\Debug\net8.0\LootLegends.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\bin\Debug\net8.0\LootLegends.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\obj\Debug\net8.0\LootLegends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\obj\Debug\net8.0\LootLegends.AssemblyInfoInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\obj\Debug\net8.0\LootLegends.AssemblyInfo.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\obj\Debug\net8.0\LootLegends.csproj.CoreCompileInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\obj\Debug\net8.0\LootLegends.sourcelink.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\obj\Debug\net8.0\LootLegends.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\obj\Debug\net8.0\refint\LootLegends.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\obj\Debug\net8.0\LootLegends.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\obj\Debug\net8.0\LootLegends.genruntimeconfig.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LootLegends\LootLegends\obj\Debug\net8.0\ref\LootLegends.dll
